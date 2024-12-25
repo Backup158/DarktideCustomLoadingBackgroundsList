@@ -10,7 +10,7 @@ Replace the existing file. Rename the existing file if you want to use it again 
 Make sure `Load Internet` is 'On' in the Mod Options.
 
 # Wallpaper Choices
-The file is full of Warhammer related arts. I have included some (commented out) wallpapers as an example at the beginning.
+The file is full of Warhammer related arts. I have included some (commented out) wallpapers as an example at the beginning. Make sure each link leads directly to the image (not just to an album).
 
 To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt`, add '.png' to the end of the url.
 
