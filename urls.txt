@@ -9,26 +9,58 @@
 --      Title is on a the line before
 --      Comments only work if it's a new line
 -- ##############################################
--- Steam Sales 2024
+-- Steam Sales 2024; NemuPan
+--  Spring
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2855140/fda4fdeb85a59563cf324600f9e23477861a02d5.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2855140/97008e292bf440a5f4e2db5944cef69d467646a0.jpg
+--  Summer
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2861690/45c9dc610960631bba87e510f19f7515db3026d2.jpg
-https://cdn.steamstatic.com/steamcommunity/public/images/items/2861690/450e38bbb486aeae2dff5c14c7394ccd97914b53.jpg
+https://steamcommunity.com/economy/profilebackground/items/2861690/6afa7adf514fb727c292a18974fe215a0bb11be6.jpg
+--  Autumn
+https://steamcommunity.com/economy/profilebackground/items/2861700/4d75a1acca8546d15fd922140c216ee96f8520eb.jpg
+https://steamcommunity.com/economy/profilebackground/items/2861700/0ba665aa69dca8374e9fafef283917a90d390b7f.jpg
+--  Winter
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg
+https://steamcommunity.com/economy/profilebackground/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg
 -- The Coffin of Andy and Leyley
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/7bcc2c0458b2954e06cbb0b43eff3d15a04a2047.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/58334ea3ffc1c6ea2e6af8c64cb366d9def7695c.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/1cb62b406e03bc60b1ac6dfe235bbdb392cdc90e.jpg
+-- #######################
 -- 40k
+-- #######################
+--  Space Marine
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
+--  Armageddon
+https://steamcommunity.com/economy/profilebackground/items/312370/307db875fbb3f51b3f5b5678837e463cd6984998.jpg
+https://steamcommunity.com/economy/profilebackground/items/312370/e8096a16b38a92351e3ee2f1b32bcd1c9a1cc8d5.jpg
+https://steamcommunity.com/economy/profilebackground/items/312370/544d19ed9edbd417afd8612ac1382af4a5cdb77a.jpg
+https://steamcommunity.com/economy/profilebackground/items/312370/42e01bfe6fa5820b24e3ad119b9cb0b8f7d58556.jpg
+https://steamcommunity.com/economy/profilebackground/items/312370/c3cc25cfa589b1d6d01a1fb4ff62a4545515c5ea.jpg
+--  Deathwing
+https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
+https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
+https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
+--  Deathwatch
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
+--  Battle Sister VR
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/2ddc6fa58824390f0428404f003c6ce744cf2a27.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
+--  Mechanicus
+--      AdMech vs Necrons
+https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
+--      Necron Statues
+https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
+--  Reuploaded Art
 --      Drukhari vs White Scars
 https://imgur.com/CEH1i2g.png
 --      Dreadnaught vs Tzeentch obelisk thing
@@ -41,7 +73,7 @@ https://imgur.com/6UlVRqQ.png
 https://imgur.com/5q6mryq.png
 --      Dark Imperium Box Art, 8th Ed: Ultramarines vs Death Guard
 https://imgur.com/2BXljjF.png
---      Sister of Battle Reading (I think it's OC from the War Maidens channel? I don't speak Russian and this translation isn't enough)
+--      Sister of Battle Reading (I think it's OC from the War Maidens channel? I don't speak Russian and I'm not digging through these machine translated pages)
 https://imgur.com/yy0TNN1.png
 --      Deathwatch Terminator; hammk/Ahn Hyoungsup
 https://imgur.com/zGUOItt.png
