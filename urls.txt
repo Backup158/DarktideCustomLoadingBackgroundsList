@@ -9,7 +9,10 @@
 --      Title is on a the line before
 --      Comments only work if it's a new line
 -- ##############################################
+
+-- ###########################################
 -- Steam Sales 2024; NemuPan
+-- ###########################################
 --  Spring
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2855140/fda4fdeb85a59563cf324600f9e23477861a02d5.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2855140/97008e292bf440a5f4e2db5944cef69d467646a0.jpg
@@ -22,24 +25,40 @@ https://steamcommunity.com/economy/profilebackground/items/2861700/0ba665aa69dca
 --  Winter
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg
 https://steamcommunity.com/economy/profilebackground/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg
+
+-- ###########################################
+-- Other Games
+-- ###########################################
+-- --------------------------------
 -- The Coffin of Andy and Leyley
+-- --------------------------------
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/7bcc2c0458b2954e06cbb0b43eff3d15a04a2047.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/58334ea3ffc1c6ea2e6af8c64cb366d9def7695c.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/1cb62b406e03bc60b1ac6dfe235bbdb392cdc90e.jpg
--- #######################
--- 40k
--- #######################
+
+-- ###########################################
+-- Warhammer 40k
+-- ###########################################
+-- ================================
+-- Steam Wallpapers
+-- ================================
+-- --------------------------------
 --  Space Marine
+-- --------------------------------
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
+-- --------------------------------
 --  Armageddon
+-- --------------------------------
 https://steamcommunity.com/economy/profilebackground/items/312370/307db875fbb3f51b3f5b5678837e463cd6984998.jpg
 https://steamcommunity.com/economy/profilebackground/items/312370/e8096a16b38a92351e3ee2f1b32bcd1c9a1cc8d5.jpg
 https://steamcommunity.com/economy/profilebackground/items/312370/544d19ed9edbd417afd8612ac1382af4a5cdb77a.jpg
 https://steamcommunity.com/economy/profilebackground/items/312370/42e01bfe6fa5820b24e3ad119b9cb0b8f7d58556.jpg
 https://steamcommunity.com/economy/profilebackground/items/312370/c3cc25cfa589b1d6d01a1fb4ff62a4545515c5ea.jpg
+-- --------------------------------
 --  Deathwing
+-- --------------------------------
 https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
@@ -47,25 +66,87 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/a3d42f4a0c
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
+-- --------------------------------
 --  Deathwatch
+-- --------------------------------
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
+-- --------------------------------
 --  Battle Sister VR
+-- --------------------------------
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/2ddc6fa58824390f0428404f003c6ce744cf2a27.jpg
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
+-- --------------------------------
 --  Mechanicus
+-- --------------------------------
 --      AdMech vs Necrons
 https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
 --      Necron Statues
 https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
+-- ================================
 --  Reuploaded Art
+--  https://imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C
+-- ================================
+-- --------------------------------
+-- Chaos Gate: Daemonhunters
+-- --------------------------------
+https://imgur.com/FIMIulG.png
+-- --------------------------------
+-- Dawn of War
+-- --------------------------------
+--      Eldar; Cheol Joo Lee
+https://imgur.com/po7J3gc.png
+--      Necron Lord; Mark Cosmiano
+https://imgur.com/CLalG93.png
+--      Skulls
+https://imgur.com/PxtTJfN.png
+--      Unreleased: Farseer Macha
+https://imgur.com/022jHAj.png
+-- --------------------------------
+-- Space Marine 2
+-- --------------------------------
+--      Dreadnought vs Tzeentch obelisk thing
+https://imgur.com/vj7Gdtw.png
+--      Corrupted City Plaza
+https://imgur.com/VgUnAPp.png
+--      Titus Defends
+https://imgur.com/0yXFas6.png
+--      Adeptus Mechanicus
+https://imgur.com/e53xPry.png
+--      Assault
+https://imgur.com/okisdLZ.png
+--      Chaos Taint
+https://imgur.com/nrsjUMu.png
+-- --------------------------------
+-- Astartes
+-- --------------------------------
+--      Lost
+https://imgur.com/OsKfFB8.png
+-- --------------------------------
+-- Stuff with logos
+-- --------------------------------
+-- Gladius
+--      Necrons
+https://imgur.com/XN0o3FY.png
+--      Necrons vs Space Marines
+https://imgur.com/RJatIRp.png
+--      Basilica Administratum
+https://imgur.com/Vv3K0BU.png
+--      Commissar
+https://imgur.com/fB0Op7C.png
+-- Deathwing
+--      Defend
+https://imgur.com/PXXmYtH.png
+--      Blasted
+https://imgur.com/GWzT9y5.png
+-- --------------------------------
+-- Other Artwork
+-- --------------------------------
 --      Drukhari vs White Scars
 https://imgur.com/CEH1i2g.png
---      Dreadnaught vs Tzeentch obelisk thing
-https://imgur.com/vj7Gdtw.png
---      Dawn of War: Blood Ravens
+--      Blood Angels
 https://imgur.com/OKDaHK5.png
 --      Kill Team: Skitarii vs Genestealer Cultists
 https://imgur.com/6UlVRqQ.png
@@ -77,9 +158,64 @@ https://imgur.com/2BXljjF.png
 https://imgur.com/yy0TNN1.png
 --      Deathwatch Terminator; hammk/Ahn Hyoungsup
 https://imgur.com/zGUOItt.png
---      Space Marine 2: Corrupted City Plaza
-https://imgur.com/VgUnAPp.png
 --      Iron Hands Deredeo Pattern Dreadnought; hammk
 https://imgur.com/lin7F4f.png
 --      Guardsman Grave (Supposedly a Harakoni Warhawk by Brilliane Feldo but I don't see it on any of his official pages)
 https://imgur.com/vOg2kqW.png
+--      War of Beasts/Nightmares on Vigilus: Ultramarines and Cadians vs Orks
+https://imgur.com/4edDhTT.png
+--      War of Beasts/Nightmares on Vigilus: Tooth and Claw
+https://imgur.com/q53YEHI.png
+--      War of Beasts/Nightmares on Vigilus: Tooth and Claw, Oteck Rumble 2
+https://imgur.com/QEQA7lr.png
+--      War of Beasts/Nightmares on Vigilus: Urban Conquest
+https://imgur.com/LztyJgD.png
+--      War of Beasts/Nightmares on Vigilus: Wake the Dead
+https://imgur.com/7Y4MShi.png
+--      Cadians vs Drukhari, Dark Eldar Coven; Leonid Kozienko
+https://imgur.com/5k39s90.png
+--      Space Marines vs Eldar, Bullet Time; Johannes Muecke
+https://imgur.com/dECL8DB.png
+--      Crimson Fists
+https://imgur.com/2m7U10T.png
+--      Codex Chaos Space Marines, 2nd ed
+https://imgur.com/W9Xf8qm.png
+--      Imperial Fists vs Chaos Space Marines
+https://imgur.com/EL0F5yW.png
+--      Damocles: Joint Assault, T'au and Space Marines; Kai Lim
+https://imgur.com/M6QNeGp.png
+--      Wraithflight (Shield of Baal)
+https://imgur.com/qydGA51.png
+--      Badab War: Tyberos and Matnis
+https://imgur.com/zZhatVL.png
+--      Sister of Battle; Jianing Hu
+https://imgur.com/oDqIEqo.png
+--      Space Hulk, 3rd ed
+https://imgur.com/uJJJhw5.png
+--      Abaddon and the Black Legion
+https://imgur.com/LtFDQdR.png
+--      Forgebane: Adeptus Mechanicus vs Necrons; Igor Sid
+https://imgur.com/P4rTICd.png
+--      Harlequins vs Daemonettes 
+https://imgur.com/Qwvzm3a.png
+--      Horus Heresy: Horus Rising
+https://imgur.com/eTXEPt3.png
+--      Lord Solar
+https://imgur.com/PcPz8s9.png
+--      Dakka Boyzzz, Orks vs Cadians; John Hagen
+https://imgur.com/NRE2eFv.png
+--      Black Templars, The Emperor's Champion
+https://imgur.com/EDKyPxQ.png
+--      Dark Imperium: Plague War; Igor Sid
+https://imgur.com/49s97Uo.png
+--      Space Wolf
+https://imgur.com/XOymY3M.png
+--      Necron Lord
+https://imgur.com/QmqN0HX.png
+--      Sister of Battle; KinpatsuCosplay (DaveYangPhoto)
+https://imgur.com/MEUMfg4.png
+--      Horus Heresy: Galaxy in Flames
+https://imgur.com/1XEXVvh.png
+--      Horus Heresy: The Flight of Eisenstein
+https://imgur.com/nN3GrOz.png
+
