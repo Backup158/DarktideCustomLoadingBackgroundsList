@@ -37,7 +37,7 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/58334ea3f
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/1cb62b406e03bc60b1ac6dfe235bbdb392cdc90e.jpg
 
 -- ###########################################
--- Warhammer 40k
+-- Warhammer 30k/40k
 -- ###########################################
 -- ================================
 -- Steam Wallpapers
@@ -104,6 +104,19 @@ https://imgur.com/CLalG93.png
 https://imgur.com/PxtTJfN.png
 --      Unreleased: Farseer Macha
 https://imgur.com/022jHAj.png
+--      Inquisitor Grayfax
+https://imgur.com/iRMQnj7.png
+--      Black Legion
+https://imgur.com/V8jJ8Vd.png
+--      Unreleased: Knowledge
+https://imgur.com/yUA4jcV.png
+--      Unreleased: Battle
+https://imgur.com/FrIgTJI.png
+-- --------------------------------
+-- Space Marine 1
+-- --------------------------------
+--      Titus Shoot
+https://imgur.com/V4UAmgp.png
 -- --------------------------------
 -- Space Marine 2
 -- --------------------------------
@@ -136,11 +149,19 @@ https://imgur.com/RJatIRp.png
 https://imgur.com/Vv3K0BU.png
 --      Commissar
 https://imgur.com/fB0Op7C.png
+--      Space Marine Captain
+https://imgur.com/C4eyUQX.png
 -- Deathwing
 --      Defend
 https://imgur.com/PXXmYtH.png
 --      Blasted
 https://imgur.com/GWzT9y5.png
+-- Space Marine 2
+--      Tyranid Duel
+https://imgur.com/lUJFBAx.png
+-- Artist Watermarks
+--      Soul Haunters; Orniris Terensi
+https://imgur.com/qCoOguH.png
 -- --------------------------------
 -- Other Artwork
 -- --------------------------------
@@ -218,4 +239,53 @@ https://imgur.com/MEUMfg4.png
 https://imgur.com/1XEXVvh.png
 --      Horus Heresy: The Flight of Eisenstein
 https://imgur.com/nN3GrOz.png
-
+--      T'au Burrito; Destraudo
+https://imgur.com/RxLqcwQ.png
+--      Praetorians vs Orks; Pierre Loyvet
+https://imgur.com/KsK7IGq.png
+--      Siege of Terra; Eddy Gonzalez Davila
+https://imgur.com/REBWRiI.png
+--      Suffer Not the Traitor to Live; Marco Brunelleschi
+https://imgur.com/9gsV56B.png
+--      Ultramarine Assault; Aidan Wilson
+https://imgur.com/evvuzjP.png
+--      Thunder Gods; John Hagen
+https://imgur.com/efPj9OL.png
+--      Daemon Engine; John Hagen
+https://imgur.com/7fyC9gi.png
+--      Adeptus Mechanicus, Legio Cybernetica Kastellans
+https://imgur.com/scFPSjM.png
+--      Horus Heresy 7: Legion - Secrets and Lies, Alpha Legion
+https://imgur.com/k4ZSI1A.png
+--      Grim Repast 1
+https://imgur.com/y1IJWtc.png
+--      Grim Repast 2
+https://imgur.com/oKerYOp.png
+--      Black Templars Hellfire Crusade; Janovich
+https://imgur.com/LoYGJ3P.png
+--      Saint Celestine; nooblar
+https://imgur.com/04lZORQ.png
+--      Sister of Battle; FirstKeeper
+https://imgur.com/JmKkGhJ.png
+--      T'au, Mont'ka Strike; Cameron Mitchell
+https://imgur.com/AKDRDWJ.png
+--      Eternal Crusade: Ultramarines vs Orks; ukitakumuki
+https://imgur.com/lSV7G8U.png
+--      Battle of the Fang: Bjorn the Fell-Handed
+https://imgur.com/MwkTScI.png
+--      Death Korps of Krieg, For the Emperor; <I can't read that signature>
+https://imgur.com/2iuKANG.png
+--      Raven Guard Snipers
+https://imgur.com/SOPDOvR.png
+--      Chimera APC in Action; Michal Svec
+https://imgur.com/wfSJJJp.png
+--      Massacre at Sanctuary 101; Nicholas Kay
+https://imgur.com/MuRJqwE.png
+--      Iron Hands vs Alaitoc Eldar; Jose Daniel Cabrera Penya
+https://imgur.com/Izveto5.png
+--      Battlefleet Gothic: Battlefleet Agripinaa; Zachary Graves
+https://imgur.com/0LvFbMu.png
+--      Adepta Sororitas, Battle Sisters vs Tyranids; Indofrece
+https://imgur.com/2utNEt5.png
+--      Siege of Vraks; Forge World
+https://imgur.com/TaBGZXa.png
