@@ -1,4 +1,4 @@
-# THIS MIGHT KILL YOUR FPS IF YOU USE THEM ALL
+# THIS MIGHT KILL YOUR FPS IF YOU USE THEM ALL AT ONCE. PICK AND CHOOSE
 
 For use with tickbox's [Custom Loading Backgrounds mods](https://www.nexusmods.com/warhammer40kdarktide/mods/462).
 
@@ -6,7 +6,7 @@ Using wallpapers from Steam profile backgrounds and reuploaded art from various 
 
 # Installation
 Make sure `Load Internet` is 'On' in the Mod Options. Then do one of the following:
-## Method 1
+## Method 1 (preferably this)
 Copy the relevant contents of `urls.txt` and paste it into `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground/urls.txt`
 
 ## Method 2
