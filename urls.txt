@@ -14,16 +14,24 @@
 -- Steam Sales 2024; NemuPan
 -- ###########################################
 --  Spring
+--      Swift Delivery
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2855140/fda4fdeb85a59563cf324600f9e23477861a02d5.jpg
+--      Meow Mail
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2855140/97008e292bf440a5f4e2db5944cef69d467646a0.jpg
 --  Summer
+--      Sun, Sand, and Surf
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2861690/45c9dc610960631bba87e510f19f7515db3026d2.jpg
+--      Sunny Shores
 https://steamcommunity.com/economy/profilebackground/items/2861690/6afa7adf514fb727c292a18974fe215a0bb11be6.jpg
 --  Autumn
+--      Silent Grove
 https://steamcommunity.com/economy/profilebackground/items/2861700/4d75a1acca8546d15fd922140c216ee96f8520eb.jpg
+--      Autumn Gathering
 https://steamcommunity.com/economy/profilebackground/items/2861700/0ba665aa69dca8374e9fafef283917a90d390b7f.jpg
 --  Winter
+--      Snowy Sanctuary
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg
+--      Snowy Slumber
 https://steamcommunity.com/economy/profilebackground/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg
 
 -- ###########################################
@@ -32,8 +40,11 @@ https://steamcommunity.com/economy/profilebackground/items/2861720/386c658bc267e
 -- --------------------------------
 -- The Coffin of Andy and Leyley
 -- --------------------------------
+--      Siblings
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/7bcc2c0458b2954e06cbb0b43eff3d15a04a2047.jpg
+--      Duo
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/58334ea3ffc1c6ea2e6af8c64cb366d9def7695c.jpg
+--      Thingys
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2378900/1cb62b406e03bc60b1ac6dfe235bbdb392cdc90e.jpg
 
 -- ###########################################
@@ -51,32 +62,52 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e639210e3f8
 -- --------------------------------
 --  Armageddon
 -- --------------------------------
+--      Ghazghkull Mag Uruk Thraka
 https://steamcommunity.com/economy/profilebackground/items/312370/307db875fbb3f51b3f5b5678837e463cd6984998.jpg
+--      Hades Hive
 https://steamcommunity.com/economy/profilebackground/items/312370/e8096a16b38a92351e3ee2f1b32bcd1c9a1cc8d5.jpg
+--      Imperial Armor
 https://steamcommunity.com/economy/profilebackground/items/312370/544d19ed9edbd417afd8612ac1382af4a5cdb77a.jpg
+--      Great Hall
 https://steamcommunity.com/economy/profilebackground/items/312370/42e01bfe6fa5820b24e3ad119b9cb0b8f7d58556.jpg
+--      Yarrick's Camp
 https://steamcommunity.com/economy/profilebackground/items/312370/c3cc25cfa589b1d6d01a1fb4ff62a4545515c5ea.jpg
 -- --------------------------------
 --  Deathwing
 -- --------------------------------
+--      Team
 https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
+--      Surrounded
 https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
+--      Threat
 https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
+--      To War
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
+--      Battle Brothers
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
+--      Stand Against Darkness
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
+--      Watchful
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
 -- --------------------------------
 --  Deathwatch
 -- --------------------------------
+--      Ultramarines
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
+--      Space Wolf
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
+--      Dark Angels
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
+--      Blood Angels
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
+--      Imperial Fists
+https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b2076133ac8bd2a0e0df9b62150.jpg
 -- --------------------------------
 --  Battle Sister VR
 -- --------------------------------
+--      Battle Ready Sister
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/2ddc6fa58824390f0428404f003c6ce744cf2a27.jpg
+--      Sister of Battle
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
 -- --------------------------------
 --  Mechanicus
@@ -147,9 +178,9 @@ https://imgur.com/OsKfFB8.png
 -- --------------------------------
 --      Moebian 6th
 https://imgur.com/br2BHS0.png
--- --------------------------------
+-- ================================
 -- Stuff with logos
--- --------------------------------
+-- ================================
 -- Gladius
 --      Necrons
 https://imgur.com/XN0o3FY.png
@@ -177,86 +208,32 @@ https://imgur.com/tjkHRq5.png
 -- --------------------------------
 -- Other Artwork
 -- --------------------------------
---      Drukhari vs White Scars
-https://imgur.com/CEH1i2g.png
+-- -----------------------
+-- Factions
+--  Section titles contain art with just that faction
+-- -----------------------
+-- --------------
+-- Adeptus Astartes, Space Marines
+--  Including Chaos Space Marines
+-- --------------
 --      Blood Angels
 https://imgur.com/OKDaHK5.png
---      Kill Team: Skitarii vs Genestealer Cultists
-https://imgur.com/6UlVRqQ.png
 --      Blood Angels
 https://imgur.com/5q6mryq.png
+--      Blood Angels
+https://imgur.com/FJbo4cS.png
 --      Dark Imperium Box Art, 8th Ed: Ultramarines vs Death Guard
 https://imgur.com/2BXljjF.png
---      Sister of Battle Reading (I think it's OC from the War Maidens channel? I don't speak Russian and I'm not digging through these machine translated pages)
-https://imgur.com/yy0TNN1.png
---      Deathwatch Terminator; hammk/Ahn Hyoungsup
+--      Deathwatch Terminator; hammk (Ahn Hyoungsup)
 https://imgur.com/zGUOItt.png
---      Iron Hands Deredeo Pattern Dreadnought; hammk
+--      Iron Hands Deredeo Pattern Dreadnought; hammk (Ahn Hyoungsup)
 https://imgur.com/lin7F4f.png
---      Guardsman Grave (Supposedly a Harakoni Warhawk by Brilliane Feldo but I don't see it on any of his official pages)
-https://imgur.com/vOg2kqW.png
---      War of Beasts/Nightmares on Vigilus: Ultramarines and Cadians vs Orks
-https://imgur.com/4edDhTT.png
---      War of Beasts/Nightmares on Vigilus: Tooth and Claw
-https://imgur.com/q53YEHI.png
---      War of Beasts/Nightmares on Vigilus: Tooth and Claw, Oteck Rumble 2
-https://imgur.com/QEQA7lr.png
---      War of Beasts/Nightmares on Vigilus: Urban Conquest
-https://imgur.com/LztyJgD.png
---      War of Beasts/Nightmares on Vigilus: Wake the Dead
-https://imgur.com/7Y4MShi.png
---      Cadians vs Drukhari, Dark Eldar Coven; Leonid Kozienko
-https://imgur.com/5k39s90.png
---      Space Marines vs Eldar, Bullet Time; Johannes Muecke
-https://imgur.com/dECL8DB.png
 --      Crimson Fists
 https://imgur.com/2m7U10T.png
 --      Codex Chaos Space Marines, 2nd ed
 https://imgur.com/W9Xf8qm.png
 --      Imperial Fists vs Chaos Space Marines
 https://imgur.com/EL0F5yW.png
---      Damocles: Joint Assault, T'au and Space Marines; Kai Lim
-https://imgur.com/M6QNeGp.png
---      Wraithflight (Shield of Baal)
-https://imgur.com/qydGA51.png
---      Badab War: Tyberos and Matnis
-https://imgur.com/zZhatVL.png
---      Sister of Battle; Jianing Hu
-https://imgur.com/oDqIEqo.png
---      Space Hulk, 3rd ed
-https://imgur.com/uJJJhw5.png
---      Abaddon and the Black Legion
-https://imgur.com/LtFDQdR.png
---      Forgebane: Adeptus Mechanicus vs Necrons; Igor Sid
-https://imgur.com/P4rTICd.png
---      Harlequins vs Daemonettes 
-https://imgur.com/Qwvzm3a.png
---      Horus Heresy: Horus Rising
-https://imgur.com/eTXEPt3.png
---      Lord Solar
-https://imgur.com/PcPz8s9.png
---      Dakka Boyzzz, Orks vs Cadians; John Hagen
-https://imgur.com/NRE2eFv.png
---      Black Templars, The Emperor's Champion
-https://imgur.com/EDKyPxQ.png
---      Dark Imperium: Plague War; Igor Sid
-https://imgur.com/49s97Uo.png
---      Space Wolf
-https://imgur.com/XOymY3M.png
---      Necron Lord
-https://imgur.com/QmqN0HX.png
---      Sister of Battle; KinpatsuCosplay (DaveYangPhoto)
-https://imgur.com/MEUMfg4.png
---      Horus Heresy: Galaxy in Flames
-https://imgur.com/1XEXVvh.png
---      Horus Heresy: The Flight of Eisenstein
-https://imgur.com/nN3GrOz.png
---      T'au Burrito; Destraudo
-https://imgur.com/RxLqcwQ.png
---      Praetorians vs Orks; Pierre Loyvet
-https://imgur.com/KsK7IGq.png
---      Siege of Terra; Eddy Gonzalez Davila
-https://imgur.com/REBWRiI.png
 --      Suffer Not the Traitor to Live; Marco Brunelleschi
 https://imgur.com/9gsV56B.png
 --      Ultramarine Assault; Aidan Wilson
@@ -265,56 +242,10 @@ https://imgur.com/evvuzjP.png
 https://imgur.com/efPj9OL.png
 --      Daemon Engine; John Hagen
 https://imgur.com/7fyC9gi.png
---      Adeptus Mechanicus, Legio Cybernetica Kastellans
-https://imgur.com/scFPSjM.png
---      Horus Heresy 7: Legion - Secrets and Lies, Alpha Legion
-https://imgur.com/k4ZSI1A.png
---      Grim Repast 1
-https://imgur.com/y1IJWtc.png
---      Grim Repast 2
-https://imgur.com/oKerYOp.png
---      Black Templars Hellfire Crusade; Janovich
-https://imgur.com/LoYGJ3P.png
---      Saint Celestine; nooblar
-https://imgur.com/04lZORQ.png
---      Sister of Battle; FirstKeeper
-https://imgur.com/JmKkGhJ.png
---      T'au, Mont'ka Strike; Cameron Mitchell
-https://imgur.com/AKDRDWJ.png
---      Eternal Crusade: Ultramarines vs Orks; ukitakumuki
-https://imgur.com/lSV7G8U.png
---      Battle of the Fang: Bjorn the Fell-Handed
-https://imgur.com/MwkTScI.png
---      Death Korps of Krieg, For the Emperor; <I can't read that signature>
-https://imgur.com/2iuKANG.png
---      Raven Guard Snipers
-https://imgur.com/SOPDOvR.png
---      Chimera APC in Action; Michal Svec
-https://imgur.com/wfSJJJp.png
---      Massacre at Sanctuary 101; Nicholas Kay
-https://imgur.com/MuRJqwE.png
---      Iron Hands vs Alaitoc Eldar; Jose Daniel Cabrera Penya
-https://imgur.com/Izveto5.png
---      Battlefleet Gothic: Battlefleet Agripinaa; Zachary Graves
-https://imgur.com/0LvFbMu.png
---      Adepta Sororitas, Battle Sisters vs Tyranids; Indofrece
-https://imgur.com/2utNEt5.png
---      Siege of Vraks; Forge World
-https://imgur.com/TaBGZXa.png
---      Trials of Azrael: Kharn vs Azrael, World Eaters vs Dark Angels
-https://imgur.com/BK4sOk6.png
---      What is a Great Day to Kill some Humies; TheMaestroNoob
-https://imgur.com/fPjLLbw.png
---      Death Korps of Krieg, Death Riders; Diego Gisbert Llorens
-https://imgur.com/026osqz.png
---      Sentinels of Terra: Imperial Fists
-https://imgur.com/gsfNCAQ.png
---      Sanguinius vs Horus
-https://imgur.com/1sWK4G3.png
---      Chains of Golgotha: Commissar Yarrick; Phrolian Gardne
-https://imgur.com/IRZL1ON.png
---      Eye of Terror, Voidship; Dan Slider
-https://imgur.com/we1aYN7.png
+--      Black Templars, The Emperor's Champion
+https://imgur.com/EDKyPxQ.png
+--      Space Wolf
+https://imgur.com/XOymY3M.png
 --      Imperial Fists Ceremony; Janovich
 https://imgur.com/zRMsEJz.png
 --      Blood Angels, Last Chapter; ukitakumuki (Kai Lim)
@@ -325,16 +256,164 @@ https://imgur.com/h92EV4I.png
 https://imgur.com/iZtuWiM.png
 --      Ultramarines: Prayer
 https://imgur.com/ZHcA4Om.png
---      Salamanders vs Tyranids; Rokotyansky German
-https://imgur.com/U56ab3e.png
---      Blood Angels
-https://imgur.com/FJbo4cS.png
---      Siege of Vraks: Death Korps of Krieg, Death Riders; Daandric
-https://imgur.com/V0sxdB8.png
+--      Black Templars Hellfire Crusade; Janovich
+https://imgur.com/LoYGJ3P.png
+--      Sentinels of Terra: Imperial Fists
+https://imgur.com/gsfNCAQ.png
+--      Trials of Azrael: Kharn vs Azrael, World Eaters vs Dark Angels
+https://imgur.com/BK4sOk6.png
+--      Space Hulk, 3rd ed
+https://imgur.com/uJJJhw5.png
+--      Abaddon and the Black Legion
+https://imgur.com/LtFDQdR.png
+-- --------------
+-- Adeptus Mechanicus
+-- --------------
+--      Adeptus Mechanicus, Legio Cybernetica Kastellans
+https://imgur.com/scFPSjM.png
+-- --------------
+-- Adepta Sororitas
+-- --------------
+--      Sister of Battle Reading (I think it's OC from the War Maidens channel? I don't speak Russian and I'm not digging through these machine translated pages)
+https://imgur.com/yy0TNN1.png
+--      Sister of Battle; Jianing Hu
+https://imgur.com/oDqIEqo.png
+--      Sister of Battle; KinpatsuCosplay (DaveYangPhoto)
+https://imgur.com/MEUMfg4.png
+--      Saint Celestine; nooblar
+https://imgur.com/04lZORQ.png
+--      Sister of Battle; FirstKeeper
+https://imgur.com/JmKkGhJ.png
 --      Adepta Sororitas, Birth of a Saint; Carl Johan Backman
 https://imgur.com/U190acB.png
+-- --------------
+-- Astra Militarum, Imperial Guard
+-- --------------
+--      Guardsman Grave (Supposedly a Harakoni Warhawk by Brilliane Feldo but I don't see it on any of his official pages)
+https://imgur.com/vOg2kqW.png
+--      Lord Solar
+https://imgur.com/PcPz8s9.png
+--      Death Korps of Krieg, Death Riders; Diego Gisbert Llorens
+https://imgur.com/026osqz.png
+--      Chimera APC in Action; Michal Svec
+https://imgur.com/wfSJJJp.png
+--      Death Korps of Krieg, For the Emperor; <I can't read that signature>
+https://imgur.com/2iuKANG.png
+--      Chains of Golgotha: Commissar Yarrick; Phrolian Gardne
+https://imgur.com/IRZL1ON.png
+-- --------------
+-- T'au
+-- --------------
+--      T'au Burrito; Destraudo
+https://imgur.com/RxLqcwQ.png
 --      Join the T'au Empire; Moritz Bludau
 https://imgur.com/qzQ7x1T.png
---      Born of Flame: Vulkan, Salamanders vs Emperor's Children
+--      T'au, Mont'ka Strike; Cameron Mitchell
+https://imgur.com/AKDRDWJ.png
+-- --------------
+-- Necrons
+-- --------------
+--      Necron Lord
+https://imgur.com/QmqN0HX.png
+-- --------------
+-- Eldar, Aeldari
+-- --------------
+--      Wraithflight (Shield of Baal)
+https://imgur.com/qydGA51.png
+-- --------------
+-- Orks
+-- --------------
+--      What is a Great Day to Kill some Humies; TheMaestroNoob
+https://imgur.com/fPjLLbw.png
+-- -----------------------
+-- Events
+-- -----------------------
+-- --------------
+-- War of Beasts/Nightmares on Vigilus
+-- --------------
+--      Ultramarines and Cadians vs Orks
+https://imgur.com/4edDhTT.png
+--      Tooth and Claw
+https://imgur.com/q53YEHI.png
+--      Tooth and Claw, Oteck Rumble 2
+https://imgur.com/QEQA7lr.png
+--      Urban Conquest
+https://imgur.com/LztyJgD.png
+--      Wake the Dead
+https://imgur.com/7Y4MShi.png
+-- --------------
+-- Horus Heresy
+-- --------------
+--      Horus Heresy 1: Horus Rising
+https://imgur.com/eTXEPt3.png
+--      Horus Heresy 3: Galaxy in Flames
+https://imgur.com/1XEXVvh.png
+--      Horus Heresy 4: The Flight of the Eisenstein
+https://imgur.com/nN3GrOz.png
+--      Horus Heresy 7: Legion - Secrets and Lies, Alpha Legion
+https://imgur.com/k4ZSI1A.png
+--      Horus Heresy 50: Born of Flame - Vulkan, Salamanders vs Emperor's Children
 https://imgur.com/MeruHIs.png
+--      Siege of Terra; Eddy Gonzalez Davila
+https://imgur.com/REBWRiI.png
+--      Sanguinius vs Horus
+https://imgur.com/1sWK4G3.png
+--      Raven Guard Snipers
+https://imgur.com/SOPDOvR.png
+-- --------------
+-- Siege of Vraks
+-- --------------
+--      Death Korps of Krieg, Death Riders; Daandric
+https://imgur.com/V0sxdB8.png
+--      Siege of Vraks, Artillery; Forge World
+https://imgur.com/TaBGZXa.png
+-- -----------------------
+-- The Rest
+-- -----------------------
+--      Drukhari vs White Scars
+https://imgur.com/CEH1i2g.png
+--      Kill Team: Skitarii vs Genestealer Cultists
+https://imgur.com/6UlVRqQ.png
+--      Cadians vs Drukhari, Dark Eldar Coven; Leonid Kozienko
+https://imgur.com/5k39s90.png
+--      Space Marines vs Eldar, Bullet Time; Johannes Muecke
+https://imgur.com/dECL8DB.png
+--      Damocles: Joint Assault, T'au and Space Marines; Kai Lim
+https://imgur.com/M6QNeGp.png
+--      Badab War: Tyberos and Matnis
+https://imgur.com/zZhatVL.png
+--      Forgebane, 8th ed: Adeptus Mechanicus vs Necrons; Igor Sid
+https://imgur.com/P4rTICd.png
+--      Harlequins vs Daemonettes 
+https://imgur.com/Qwvzm3a.png
+--      Dakka Boyzzz, Orks vs Cadians; John Hagen
+https://imgur.com/NRE2eFv.png
+--      Dark Imperium: Plague War; Igor Sid
+https://imgur.com/49s97Uo.png
+--      Praetorians vs Orks; Pierre Loyvet
+https://imgur.com/KsK7IGq.png
+--      Grim Repast 1
+https://imgur.com/y1IJWtc.png
+--      Grim Repast 2
+https://imgur.com/oKerYOp.png
+--      Eternal Crusade: Ultramarines vs Orks; ukitakumuki  (Kai Lim)
+https://imgur.com/lSV7G8U.png
+--      Battle of the Fang: Bjorn the Fell-Handed
+https://imgur.com/MwkTScI.png
+--      Massacre at Sanctuary 101; Nicholas Kay
+https://imgur.com/MuRJqwE.png
+--      Iron Hands vs Alaitoc Eldar; Jose Daniel Cabrera Penya
+https://imgur.com/Izveto5.png
+--      Battlefleet Gothic: Battlefleet Agripinaa; Zachary Graves
+https://imgur.com/0LvFbMu.png
+--      Adepta Sororitas, Battle Sisters vs Tyranids; Indofrece
+https://imgur.com/2utNEt5.png
+--      Eye of Terror, Voidship; Dan Slider
+https://imgur.com/we1aYN7.png
+--      Salamanders vs Tyranids; Rokotyansky German
+https://imgur.com/U56ab3e.png
+
+
+
+
 
