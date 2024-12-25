@@ -3,11 +3,14 @@ For use with tickbox's [Custom Loading Backgrounds mods](https://www.nexusmods.c
 Using wallpapers from Steam profile backgrounds and reuploaded art from various sources. Reuploaded wallpapers hosted on [Imgur](https://imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C). 
 
 # Installation
-Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground` folder. 
+Make sure `Load Internet` is 'On' in the Mod Options. Then do one of the following:
+## Method 1
+Copy the relevant contents of `urls.txt` and paste it into `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground/urls.txt`
+
+## Method 2
+Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground` folder.
 
 Replace the existing file. Rename the existing file if you want to use it again later (whichever is named `urls.txt` is the active one. other files won't load).
-
-Make sure `Load Internet` is 'On' in the Mod Options.
 
 # Wallpaper Choices
 The file is full of Warhammer related arts. I have included some (commented out) wallpapers as an example at the beginning. Make sure each link leads directly to the image (not just to an album).
