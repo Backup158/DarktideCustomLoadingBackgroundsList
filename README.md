@@ -1,3 +1,5 @@
+# THIS MIGHT KILL YOUR FPS IF YOU USE THEM ALL
+
 For use with tickbox's [Custom Loading Backgrounds mods](https://www.nexusmods.com/warhammer40kdarktide/mods/462).
 
 Using wallpapers from Steam profile backgrounds and reuploaded art from various sources. Reuploaded wallpapers hosted on [Imgur](https://imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C). 
