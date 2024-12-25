@@ -143,6 +143,12 @@ https://imgur.com/V8jJ8Vd.png
 https://imgur.com/yUA4jcV.png
 --      Unreleased: Battle
 https://imgur.com/FrIgTJI.png
+--      Unreleased: Space Marine
+https://imgur.com/oH3xNvQ.png
+--      Unreleased: Eldar Howling Banshee 1
+https://imgur.com/QWwiuLT.png
+--      Unreleased: Eldar Howling Banshee 2
+https://imgur.com/wQtisC0.png
 -- --------------------------------
 -- Space Marine 1
 -- --------------------------------
@@ -178,6 +184,8 @@ https://imgur.com/OsKfFB8.png
 -- --------------------------------
 --      Moebian 6th
 https://imgur.com/br2BHS0.png
+--      Looking on Hive Tertium
+https://imgur.com/KQtEqVz.png
 -- ================================
 -- Stuff with logos
 -- ================================
@@ -205,6 +213,10 @@ https://imgur.com/lUJFBAx.png
 https://imgur.com/qCoOguH.png
 --      Perturabo, Iron Warriors; Eddy Gonzalez Davila
 https://imgur.com/tjkHRq5.png
+--      Dune Space Marine; Eddy Gonzalez Davila
+https://imgur.com/GxyZ7D2.png
+--      Hold at All Costs; John Stone
+https://imgur.com/0QtKus3.png
 -- --------------------------------
 -- Other Artwork
 -- --------------------------------
@@ -266,6 +278,33 @@ https://imgur.com/BK4sOk6.png
 https://imgur.com/uJJJhw5.png
 --      Abaddon and the Black Legion
 https://imgur.com/LtFDQdR.png
+--      Guilliman's Fury; Alexandr Babak
+https://imgur.com/dqLEBcw.png
+--      Chaos Lord Astaroth; Miguel Iglesias
+https://imgur.com/LpxVYrB.png
+--      Dark Angels Destroyer; MC dibujante
+https://imgur.com/gyrenFg.png
+--      Charge, Imperial Fists and Chaos; ameeeeba
+https://imgur.com/aQfB9OC.png
+--      Invasion of Taladorn: Imperial Fists and Ultramarines vs Iron Warriors
+https://imgur.com/VuSvzVe.png
+--      An Unending Crusade, Black Templars; Luches
+https://imgur.com/z9FQEgG.png
+--      Crimson Fists, Honour's Reward; George Earl Abalayan
+https://imgur.com/mSuGlmA.png
+--      Chaos Space Marines, Legion of the Damned; Jon Sullivan
+https://imgur.com/YZslGnh.png
+--      Iron Warriors; waruhameru40kart
+https://imgur.com/sBHJgAA.png
+--      Black Templars, Righteous Crusaders; Rian Macanip
+https://imgur.com/qfzWShg.png
+-- --------------
+-- Adeptus Custodes
+-- --------------
+--      Custodes General; bachzim
+https://imgur.com/cEev2bK.png
+--      Charge! For the Emperor, Adeptus Custodes vs Thousand Sons; bachzim
+https://imgur.com/yitQ4MQ.png
 -- --------------
 -- Adeptus Mechanicus
 -- --------------
@@ -301,6 +340,8 @@ https://imgur.com/wfSJJJp.png
 https://imgur.com/2iuKANG.png
 --      Chains of Golgotha: Commissar Yarrick; Phrolian Gardne
 https://imgur.com/IRZL1ON.png
+--      Kasrkin; Eddy Gonzalez Davila
+https://imgur.com/Xf5Q6GV.png
 -- --------------
 -- T'au
 -- --------------
@@ -308,8 +349,12 @@ https://imgur.com/IRZL1ON.png
 https://imgur.com/RxLqcwQ.png
 --      Join the T'au Empire; Moritz Bludau
 https://imgur.com/qzQ7x1T.png
---      T'au, Mont'ka Strike; Cameron Mitchell
+--      Mont'ka Strike; Cameron Mitchell
 https://imgur.com/AKDRDWJ.png
+--      Tau'nar Supremacy Armor
+https://imgur.com/LQLb1MF.png
+--      War of Dakka, T'au vs Orks; ComradeMatt
+https://imgur.com/kk2JwCe.png
 -- --------------
 -- Necrons
 -- --------------
@@ -320,6 +365,10 @@ https://imgur.com/QmqN0HX.png
 -- --------------
 --      Wraithflight (Shield of Baal)
 https://imgur.com/qydGA51.png
+--      Breach and Burn; Miguel Mitchell Da Silva
+https://imgur.com/e7cAiMh.png
+--      Eternal Crusade: Eldar; DiegoGisbertLlorens
+https://imgur.com/Yxq7qlB.png
 -- --------------
 -- Orks
 -- --------------
@@ -344,6 +393,8 @@ https://imgur.com/7Y4MShi.png
 -- --------------
 -- Horus Heresy
 -- --------------
+--      C'mon You Know This One
+https://imgur.com/lRZ7iUq.png
 --      Horus Heresy 1: Horus Rising
 https://imgur.com/eTXEPt3.png
 --      Horus Heresy 3: Galaxy in Flames
@@ -352,6 +403,8 @@ https://imgur.com/1XEXVvh.png
 https://imgur.com/nN3GrOz.png
 --      Horus Heresy 7: Legion - Secrets and Lies, Alpha Legion
 https://imgur.com/k4ZSI1A.png
+--      Horus Heresy 47: Old Earth - To the Gates of Terra, Vulkan and the Salamanders
+https://imgur.com/Fi8JTed.png
 --      Horus Heresy 50: Born of Flame - Vulkan, Salamanders vs Emperor's Children
 https://imgur.com/MeruHIs.png
 --      Siege of Terra; Eddy Gonzalez Davila
@@ -360,6 +413,10 @@ https://imgur.com/REBWRiI.png
 https://imgur.com/1sWK4G3.png
 --      Raven Guard Snipers
 https://imgur.com/SOPDOvR.png
+--      Corvus Armor
+https://imgur.com/gEBGtRG.png
+--      The Pyramid of Imperium; Yuri Melentev
+https://imgur.com/k8lh4VO.png
 -- --------------
 -- Siege of Vraks
 -- --------------
@@ -412,8 +469,24 @@ https://imgur.com/2utNEt5.png
 https://imgur.com/we1aYN7.png
 --      Salamanders vs Tyranids; Rokotyansky German
 https://imgur.com/U56ab3e.png
-
-
-
-
+--      Battlesector: Blood Angels vs Tyranids; Anthony Carriero
+https://imgur.com/DeGM8Ad.png
+--      War of the Spider: Custodes vs Black Legion
+https://imgur.com/BvlYFkA.png
+--      Chaos Assault; Miguel Iglesias
+https://imgur.com/VInU8RY.png
+--      MtG: Mortify, Kaldor Draigo Destroys Daemon; Billy Christian
+https://imgur.com/pt4rDgj.png
+--      Aftermath of the War, Astartes and Guardsman; Richard Bagnall
+https://imgur.com/t4icfhR.png
+--      C'tan; outofs
+https://imgur.com/VuXzVvn.png
+--      Last Shot for Yourself, Guardsman and Tyranids; VladLakrua
+https://imgur.com/8Q1D6eg.png
+--      Brightsword of Tash'var, T'au Farsight Enclaves vs Daemons; Alex Cristi
+https://imgur.com/3qIq9ah.png
+--      War Itself, Ultramarines vs Eldar, Marneus Calgar and Avatar of Khaine; Cristian Otazu
+https://imgur.com/DtATXkL.png
+--      Against the Tide at Tarsis Ultra, Death Korps of Krieg vs Tyranids; PenUser
+https://imgur.com/tFFlNoY.png
 
