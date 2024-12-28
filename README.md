@@ -14,7 +14,7 @@ Make sure `Load Internet` is 'On' in the Mod Options. Then do one of the followi
 ![img2](https://github.com/user-attachments/assets/3a170483-db37-431e-a08c-90f855ae8b81)
 3) Copy the url
 ![img3](https://github.com/user-attachments/assets/38711640-3019-4c8d-ba6d-1a1d07bbaac0)
-4) Add the alternative list by writing `table.append(curatedLists, {"<URL DIRECTLY TO THE TEXT>"})` to `CustomLoadingBackground.lua`. The default one is on line 15, so you can use that as a reference and put other lists in the lines below. 
+4) Add the alternative list by writing `table.append(curatedLists, {"<URL DIRECTLY TO THE TEXT>"})` to `CustomLoadingBackground.lua`. The default one is on line 15, so you can use that as a reference and put other lists in the lines below. You can comment that one out if you don't want it.
 ![img4](https://github.com/user-attachments/assets/6432934b-3647-4562-adf9-70804cdb8ea7)
 
 ## Adding as the Main List
