@@ -1,0 +1,23 @@
+-- ##########################
+-- Darktide Promotional Screenshots
+-- ##########################
+-- Shooting Poxwalkers
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_e5bfe858d549cb4c488f9f755587496deca96082.jpg
+-- Mutant charging
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_623eb17524442b7a908511fb46fef3366609dbd3.jpg
+-- Zealot flames
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_bb7caeef3cb174a55f6ba87b2fbeb9eb53db2dc9.jpg
+-- Shotgun reload
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_d932c7e464f32ab6d1380091d1752ab6b3c4b45b.jpg
+-- Psyker vs Crusher
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_1e057a298746ba08f0e9e5f102b5625d577ea389.jpg
+-- Crusher overhead
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_eea5f1aae5032babe3f1cdbd0c8e32272f4787c5.jpg
+-- Thunder Hammer Poxwalkers
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_09770c728cb7d208eec817bbbccd2887056ac0bf.jpg
+-- Excise Vault Spireside-13
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_93650972b56461922dbe1eb2613b4f84bab59389.jpg
+-- Assassination at Magistrati Oubliette TM8-707
+https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/ss_90b6ef5cdfc36d08b1b5237b628823a25087caef.jpg
+-- Scab Shooters
+https://img.playstationtrophies.org/images/monthly_2024_11/screenshots/30230/fatshark_darktide_11_b75f80db-17d7-4dcc-8de0-1fb05f87ca8f.jpg
