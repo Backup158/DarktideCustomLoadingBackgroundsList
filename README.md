@@ -20,3 +20,10 @@ The file is full of Warhammer related arts. I have included some (commented out)
 To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt`, add '.png' to the end of the url.
 
 **See the comment block at the top of the file for further details.**
+
+There's also alternative lists. 
+
+Add alternative lists by adding `table.append(curatedLists, {"<URL DIRECTLY TO THE TEXT>"})` to `CustomLoadingBackground.lua`. The default one is on line 15, so you can use that as a reference and put other lists in the lines below. To get the direct link (on GitHub), open the text file on the repository, click on 'Raw', then copy the url.
+[!https://imgur.com/1AKms24.png](Click on text)
+[!https://imgur.com/twDYUur.png](Click on Raw)
+https://imgur.com/ybGUywm.png
