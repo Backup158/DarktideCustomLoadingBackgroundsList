@@ -36,6 +36,6 @@ To add your own images from some other imgur album: click 'Copy Link', paste it 
 I've included alternative lists (I guess you can call them modules? sets?) aside from the main file. These have stricter theming.
 
 # Testing the Mod
-See the list of commands on the mod description page. Using the `/bg #` chat command will display the image onscreen for you to see.
+See the list of commands on the mod description page. Using the `/bg #` chat command will display the image onscreen for you to see. With v1.2+, this preview will take up the whole screen.
 ![BG test command](https://github.com/user-attachments/assets/5b0819a6-934b-4cdd-a36a-57c30b2c8fea)
 The list will be in random order. 
