@@ -29,7 +29,7 @@ The file is full of Warhammer related arts. I have included some (commented out)
 
 To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt`, add '.png' to the end of the url.
 
-[**See the comment block at the top of the file for further details.**](https://github.com/Backup158/DarktideCustomLoadingBackgroundsList/blob/2c93ac5eb9068bb121d18a2b46a18a1e7b586b83/urls.txt#L3C1-L10C46)
+**See the [comment block at the top of the main file](https://github.com/Backup158/DarktideCustomLoadingBackgroundsList/blob/2c93ac5eb9068bb121d18a2b46a18a1e7b586b83/urls.txt#L3C1-L10C46) for further details.**
 
 I've included alternative lists (I guess you can call them modules? sets?) aside from the main file. These have stricter theming.
 
