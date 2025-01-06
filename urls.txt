@@ -199,6 +199,10 @@ https://i.imgur.com/OsKfFB8.png
 -- The above concept art are included in KamiUnit's curated list
 --      Gathering of the Heavy Brigade; 0ouch
 https://i.imgur.com/UmEvOXs.jpeg
+--      Rejects of Tertium; Lionel Schramm
+https://i.imgur.com/EILLWwN.png
+--      Bridge Assault; Pavel Shut
+https://i.imgur.com/6Mk0nOJ.png
 -- ================================
 -- Stuff with logos
 -- ================================
@@ -250,6 +254,14 @@ https://i.imgur.com/U6Jvqgg.jpeg
 https://i.imgur.com/F3L5g5X.png
 --      Black Templars and Sisters of Battle; Vitaly Perevoshikov
 https://i.imgur.com/Bturvt8.png
+--      Counter Charge, Death Korps of Krieg with Astartes support; Brilliane Feldo\
+https://i.imgur.com/iQk0Rx4.png
+--      Ecclesiarchy Hallway; Moritz Bludau
+https://i.imgur.com/B4RgJ4P.png
+--      Inquisitorial Expedition; Alexander Moroz
+https://i.imgur.com/O4kM6h3.png
+--      Shroud of Night, Sisters and Alpha Legion; Akim Kaliberda
+https://i.imgur.com/4BguR2E.png
 -- --------------
 -- Adeptus Astartes, Space Marines
 --  Including Chaos Space Marines
@@ -328,6 +340,8 @@ https://i.imgur.com/qfzWShg.png
 https://i.imgur.com/0RLr4P4.jpeg
 --      Kwaku Anansi, The Spider, Chapter Master of the Black Fangs; L J Koh
 https://i.imgur.com/MZNGCbS.jpeg
+--      Ultramarines Landing; Sergey Nagornov
+https://i.imgur.com/hhjsH0j.png
 -- --------------
 -- Adeptus Custodes
 -- --------------
@@ -375,6 +389,30 @@ https://i.imgur.com/hoQ5CY1.png
 https://i.imgur.com/Rm2NXji.png
 --      Battle Sister; Yang Zheyy
 https://i.imgur.com/mQXUupT.png
+--      Faith, Flame, and Bolter; Leos Ng Okita
+https://i.imgur.com/PIbE2y9.png
+--      Living Saint; Alex Cristi
+https://i.imgur.com/VDv8tJU.png
+--      Living Saint Hazel; L J Koh
+https://i.imgur.com/FjLtmRN.png
+--      Living Saint; Tamas Patkos
+https://i.imgur.com/ftouUAU.png
+--      Living Saint; Yang Zheyy
+https://i.imgur.com/9CbvuvP.png
+--      Order of the Bloody Rose; Yang Zheyy
+https://i.imgur.com/AntuQmY.png
+--      Saint Celestine; Igor Sid
+https://i.imgur.com/NhGRA7e.png
+--      Sister of Battle; Tamas Patkos
+https://i.imgur.com/1lG6H8q.png
+--      Sisters of Battle; Baloolax
+https://i.imgur.com/cuqQQUn.png
+--      Sleep Soundly; Yang Zheyy
+https://i.imgur.com/nSymytc.png
+--      Triumph of Saint Katherine; David Astruga
+https://i.imgur.com/dwr2Iqb.png
+--      Wilderness Hunting; Yang Zheyy
+https://i.imgur.com/H9IB52R.png
 -- --------------
 -- Astra Militarum, Imperial Guard
 -- --------------
@@ -416,6 +454,20 @@ https://i.imgur.com/WZQN85M.png
 https://i.imgur.com/c9116Jc.png
 --      Ciaphas Cain; Vladimir Krisetskiy
 https://i.imgur.com/Vf3d1FW.png
+--      Death Korps of Krieg Triumph; Boris Tsui
+https://i.imgur.com/0EmdFTt.png
+--      Death Korps of Krieg Trench Assault; Brilliane Feldo
+https://i.imgur.com/3KkQLfI.png
+--      Death Korps of Krieg Line; Jiwon Kim
+https://i.imgur.com/3Q8hW3k.png
+--      Hammer of Woe; Slim Charles
+https://i.imgur.com/XAwEmKb.png
+--      Imperial Planetfall; Paul Dainton
+https://i.imgur.com/AzPuD6H.png
+--      Shield of Baal; Fares Maese
+https://i.imgur.com/57Bqwz2.png
+--      Vostroyan Firstborns Bikers; Nictanova
+https://i.imgur.com/4cpv8oW.png
 -- -------------------
 -- Xenos
 -- -------------------
@@ -439,6 +491,8 @@ https://i.imgur.com/GdCdnoI.png
 -- --------------
 --      Necron Lord
 https://i.imgur.com/QmqN0HX.png
+--      Cryptek; L J Koh
+https://i.imgur.com/Oxe3t1j.png
 -- --------------
 -- Eldar, Aeldari
 -- --------------
@@ -446,29 +500,20 @@ https://i.imgur.com/QmqN0HX.png
 https://i.imgur.com/qydGA51.png
 --      Breach and Burn; Miguel Mitchell Da Silva
 https://i.imgur.com/e7cAiMh.png
---      Eternal Crusade: Eldar; DiegoGisbertLlorens
+--      Eternal Crusade: Eldar; Diego Gisbert Llorens
 https://i.imgur.com/Yxq7qlB.png
+--      Last Shot; Yang Zheyy
+https://i.imgur.com/x9MD6LY.png
 -- --------------
 -- Orks
 -- --------------
---      What is a Great Day to Kill some Humies; TheMaestroNoob
+--      What a Great Day to Kill Some Humies; TheMaestroNoob
 https://i.imgur.com/fPjLLbw.png
+--      City Busta; Daniel K
+https://i.imgur.com/1yTBtOl.png
 -- =======================
 -- Events
 -- =======================
--- --------------
--- War of Beasts/Nightmares on Vigilus
--- --------------
---      Ultramarines and Cadians vs Orks
-https://i.imgur.com/4edDhTT.png
---      Tooth and Claw
-https://i.imgur.com/q53YEHI.png
---      Tooth and Claw, Oteck Rumble 2
-https://i.imgur.com/QEQA7lr.png
---      Urban Conquest
-https://i.imgur.com/LztyJgD.png
---      Wake the Dead
-https://i.imgur.com/7Y4MShi.png
 -- --------------
 -- Horus Heresy
 -- --------------
@@ -498,6 +543,23 @@ https://i.imgur.com/gEBGtRG.png
 https://i.imgur.com/k8lh4VO.png
 --      Fall of Olympia; Michal Svec
 https://i.imgur.com/hroqT4v.jpeg
+--      Coronation of the Warmaster; L J Koh
+https://i.imgur.com/DU5oa55.png
+--      Night Lords vs Solar Auxilia; Victor Fernandez
+https://i.imgur.com/2H0C7pZ.png
+-- --------------
+-- War of Beasts/Nightmares on Vigilus
+-- --------------
+--      Ultramarines and Cadians vs Orks
+https://i.imgur.com/4edDhTT.png
+--      Tooth and Claw
+https://i.imgur.com/q53YEHI.png
+--      Tooth and Claw, Oteck Rumble 2
+https://i.imgur.com/QEQA7lr.png
+--      Urban Conquest
+https://i.imgur.com/LztyJgD.png
+--      Wake the Dead
+https://i.imgur.com/7Y4MShi.png
 -- --------------
 -- Siege of Vraks
 -- --------------
@@ -601,3 +663,27 @@ https://i.imgur.com/M3xWlaG.png
 https://i.imgur.com/uUk43TR.png
 --      Cities Of Death, T'au vs Vostroyan Firstborns; Paul Dainton
 https://i.imgur.com/lZJM92J.png
+--      Decree of Pain, Guardsmen vs Death Guard; Evan Shipard
+https://i.imgur.com/djHqYks.png
+--      Enslaver Battle; Albert Sargsyan
+https://i.imgur.com/hQN7HVl.png
+--      Fra'al Battle with Tempestus Scions; Albert Sargsyan
+https://i.imgur.com/NAr3EjL.png
+--      Fracture of Biel Tan; Phil Moss
+https://i.imgur.com/aLAAPbh.png
+--      Imperial Line vs Drukhari; Mauro Dal Bo
+https://i.imgur.com/Ic1Roja.png
+--      Life of a Guardsmen, Facing the Death Guard; Aaron Oborn
+https://i.imgur.com/ZLaBdb5.png
+--      Planetstrike, Valhallan Ice Warriors vs Aeldari; Paul Dainton
+https://i.imgur.com/0uRu9Nk.png
+--      Red Waagh, Orks vs Cadians; Fares Maese
+https://i.imgur.com/LvrRYf4.png
+--      Sabbat Crusade, Gaunt's Ghosts, Tanith 1st and Only; Raymond Swanland
+https://i.imgur.com/uK6k59n.png
+--      Space Marines and Imperial Guard vs Orks; Stefan Kopinski
+https://i.imgur.com/Sq3k7oY.png
+--      Tempestus Scions vs Orks; Leos Ng Okita
+https://i.imgur.com/ImOQS7S.png
+--      Tyranids and Sisters; Thomas Elliott
+https://i.imgur.com/RVwsy4v.png
