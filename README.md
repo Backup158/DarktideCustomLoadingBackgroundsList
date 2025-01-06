@@ -1,6 +1,6 @@
 Various collections of 1920x1080 wallpapers for use with tickbox's [Custom Loading Backgrounds mod](https://www.nexusmods.com/warhammer40kdarktide/mods/462).
 
-Using wallpapers from Steam profile backgrounds and reuploaded art from various sources. Reuploaded wallpapers hosted on [Imgur](https://imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C). 
+Using wallpapers from Steam profile backgrounds and reuploaded art from various sources (so I can crop them). Reuploaded wallpapers hosted on [Imgur](https://imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C).
 
 Using all of these at once might kill your fps if you run a heavy setup. I don't know why, it just got worse after adding a bunch of wallpapers. I tried 200 wallpapers on a light setup (one without Extended Weapon Customization lol) and didn't notice much of a difference.
 
