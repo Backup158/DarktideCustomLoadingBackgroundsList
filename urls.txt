@@ -193,9 +193,12 @@ https://i.imgur.com/OsKfFB8.png
 -- Darktide
 -- --------------------------------
 --      Moebian 6th
-https://i.imgur.com/br2BHS0.png
+-- https://i.imgur.com/br2BHS0.png
 --      Looking on Hive Tertium
-https://i.imgur.com/KQtEqVz.png
+-- https://i.imgur.com/KQtEqVz.png
+-- The above concept art are included in KamiUnit's curated list
+--      Gathering of the Heavy Brigade; 0ouch
+https://i.imgur.com/UmEvOXs.jpeg
 -- ================================
 -- Stuff with logos
 -- ================================
@@ -227,13 +230,26 @@ https://i.imgur.com/tjkHRq5.png
 https://i.imgur.com/GxyZ7D2.png
 --      Hold at All Costs; John Stone
 https://i.imgur.com/0QtKus3.png
+--      Gather the Troops; Eddy Gonzalez Davila
+https://i.imgur.com/669YWHC.jpeg
 -- --------------------------------
 -- Other Artwork
 -- --------------------------------
--- -----------------------
+-- =======================
 -- Factions
 --  Section titles contain art with just that faction
--- -----------------------
+-- =======================
+-- -------------------
+-- The Imperium of Man
+-- -------------------
+--      Roboute Guilliman's Indominatus Crusade; Firat Solhan
+https://i.imgur.com/Qu6gtzB.jpeg
+--      Commander; Pilt
+https://i.imgur.com/U6Jvqgg.jpeg
+--      Black Templar and Battle Sister; Richard Bagnall
+https://i.imgur.com/F3L5g5X.png
+--      Black Templars and Sisters of Battle; Vitaly Perevoshikov
+https://i.imgur.com/Bturvt8.png
 -- --------------
 -- Adeptus Astartes, Space Marines
 --  Including Chaos Space Marines
@@ -308,6 +324,10 @@ https://i.imgur.com/YZslGnh.png
 https://i.imgur.com/sBHJgAA.png
 --      Black Templars, Righteous Crusaders; Rian Macanip
 https://i.imgur.com/qfzWShg.png
+--      Gabriel Seth, Flesh Tearers; Pilt
+https://i.imgur.com/0RLr4P4.jpeg
+--      Kwaku Anansi, The Spider, Chapter Master of the Black Fangs; L J Koh
+https://i.imgur.com/MZNGCbS.jpeg
 -- --------------
 -- Adeptus Custodes
 -- --------------
@@ -337,6 +357,24 @@ https://i.imgur.com/JmKkGhJ.png
 https://i.imgur.com/U190acB.png
 --      Seraphim; Pilt
 https://i.imgur.com/8yDkMw7.png
+--      Dense Fog; Yang Zheyy
+https://i.imgur.com/sbkYVbV.jpeg
+--      Ego Queen; Karl Hafner
+https://i.imgur.com/sZD4ehw.jpeg
+--      Lux in Tenebris; Ivana Abbate
+https://i.imgur.com/q5Fs1Ho.jpeg
+--      Our Mercy; lamoz571
+https://i.imgur.com/dEOKmj8.jpeg
+--      Sororitas Cavalieras; Benjamin Del Rio
+https://i.imgur.com/uft6FJP.jpeg
+--      Emperor's Valkyrie; Frankgu
+https://i.imgur.com/STgFoXL.jpeg
+--      Adepta Sororitas and Saint Celestine; Kamila Szutenberg
+https://i.imgur.com/hoQ5CY1.png
+--      Codex, 9th ed: Adepta Sororitas; Paul Dainton
+https://i.imgur.com/Rm2NXji.png
+--      Battle Sister; Yang Zheyy
+https://i.imgur.com/mQXUupT.png
 -- --------------
 -- Astra Militarum, Imperial Guard
 -- --------------
@@ -356,6 +394,31 @@ https://i.imgur.com/IRZL1ON.png
 https://i.imgur.com/Xf5Q6GV.png
 --      Armoured Sentinel; Guillaume Bolis
 https://i.imgur.com/aQAbfNq.png
+--      Cadian 728th; Hector Martínez
+https://i.imgur.com/dWjDGAI.jpeg
+--      Cadian Advance; Michal Svec
+https://i.imgur.com/ocWmkLI.jpeg
+--      Elysian Ork Hunters; Michal Svec
+https://i.imgur.com/Pk4CE5s.jpeg
+--      Kriegman; teutonic13
+https://i.imgur.com/LJ2TL8r.jpeg
+--      Mordian Iron Guard vs Slaanesh; Marton Kapoli
+https://i.imgur.com/gvnzhCa.jpeg
+--      Prayer; Hector Martínez
+https://i.imgur.com/IWvb7w5.jpeg
+--      88th Siege Army; Brilliane Feldo
+https://i.imgur.com/VRPORTD.png
+--      Acastus Porphyrion; Hector Martínez
+https://i.imgur.com/4LwCBj5.png
+--      Killteam; Samuel Allan
+https://i.imgur.com/WZQN85M.png
+--      Cadian Heroes; Nicolás Castro Jiménez
+https://i.imgur.com/c9116Jc.png
+--      Ciaphas Cain; Vladimir Krisetskiy
+https://i.imgur.com/Vf3d1FW.png
+-- -------------------
+-- Xenos
+-- -------------------
 -- --------------
 -- T'au
 -- --------------
@@ -369,6 +432,8 @@ https://i.imgur.com/AKDRDWJ.png
 https://i.imgur.com/LQLb1MF.png
 --      War of Dakka, T'au vs Orks; ComradeMatt
 https://i.imgur.com/kk2JwCe.png
+--      Against The Greater Threat; Alex McClelland
+https://i.imgur.com/GdCdnoI.png
 -- --------------
 -- Necrons
 -- --------------
@@ -388,9 +453,9 @@ https://i.imgur.com/Yxq7qlB.png
 -- --------------
 --      What is a Great Day to Kill some Humies; TheMaestroNoob
 https://i.imgur.com/fPjLLbw.png
--- -----------------------
+-- =======================
 -- Events
--- -----------------------
+-- =======================
 -- --------------
 -- War of Beasts/Nightmares on Vigilus
 -- --------------
@@ -431,13 +496,17 @@ https://i.imgur.com/SOPDOvR.png
 https://i.imgur.com/gEBGtRG.png
 --      The Pyramid of Imperium; Yuri Melentev
 https://i.imgur.com/k8lh4VO.png
+--      Fall of Olympia; Michal Svec
+https://i.imgur.com/hroqT4v.jpeg
 -- --------------
 -- Siege of Vraks
 -- --------------
 --      Death Korps of Krieg, Death Riders; Daandric
 https://i.imgur.com/V0sxdB8.png
---      Siege of Vraks, Artillery; Forge World
+--      Artillery; Forge World
 https://i.imgur.com/TaBGZXa.png
+--      Hive Ferrograd; Janovich
+https://i.imgur.com/t7CuYYd.jpeg
 -- --------------
 -- War for Armageddon (any)
 -- --------------
@@ -445,9 +514,9 @@ https://i.imgur.com/TaBGZXa.png
 https://i.imgur.com/sPGDIkg.png
 --      Steel Legion; Javier Quintana
 https://i.imgur.com/4Lb0QQY.png
--- -----------------------
+-- =======================
 -- The Rest
--- -----------------------
+-- =======================
 --      Drukhari vs White Scars
 https://i.imgur.com/CEH1i2g.png
 --      Kill Team: Skitarii vs Genestealer Cultists
@@ -518,3 +587,17 @@ https://i.imgur.com/Hzk8na9.png
 https://i.imgur.com/lK291bU.png
 --      Cadian 501st vs T'au; Hector Martinez
 https://i.imgur.com/H27rr41.png
+--      Siege on Hive Acros, T'au vs Death Korps of Krieg; Oliver Hoegh
+https://i.imgur.com/9d0IL1d.jpeg
+--      Tallarn Executioner; Neil Roberts
+https://i.imgur.com/vfSQEcY.jpeg
+--      Thunderbolt Dawn Patrol; Michal Svec
+https://i.imgur.com/9PQjzBS.jpeg
+--      Ambush, Drukhari vs Vostroyan Firstborns; Dima Sokolov
+https://i.imgur.com/pdgSwkG.png
+--      Kasrkin Anti Tyranids; Jiwon Kim
+https://i.imgur.com/M3xWlaG.png
+--      Battle Sister Last Stand vs Necrons; Diego Sanches
+https://i.imgur.com/uUk43TR.png
+--      Cities Of Death, T'au vs Vostroyan Firstborns; Paul Dainton
+https://i.imgur.com/lZJM92J.png
