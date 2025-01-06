@@ -1,14 +1,21 @@
--- ##############################################
+-- ########################################################################################################################################################################################
 -- List maintained by Backup158
 -- Images are sourced from Steam Backgrounds or various wallpaper sites (reuploaded to my imgur album)
 --      Cropped to 1920x1080
---      It seems the resolution must match your monitor exactly. 2560x1440 doesn't work even though it's 16:9 too.
+--      It seems the resolution must match your monitor exactly. I tried a 2560x1440 wallpaper and it didn't work even though it's 16:9 too.
 -- For reuploaded art, I tried to find the original artists through reverse image search
 --      <Media Source>: <Title>; <Artist>
---      Titles are usually ones I made up
---      Title is on a the line before
---      Comments only work if it's a new line
--- ##############################################
+--        This is mirrored (mostly) in the imgur album. I also added markers for the significantly involved factions (Mostly for the latest additions. I'm adding these by hand instead of webscraping because I'm a noob)
+--      Titles are usually ones I made up if the original is something generic
+--        Title is on the line before the link
+--        Comments only work if it's a new line
+--      I usually only list one artist name
+--        If there was an alias I used that ended up being a duplicate, I included both for some reason
+--        I tend to use real names, but use usernames if I don't see one
+--        Names with diacritic/accent marks get collapsed to plain letters. I know this is incorrect but I don't know what encoding this file uses and don't want a random letter to screw things up.
+--          I should figure that out
+--          Wait why am I writing all of this out in a file that's being distributed publically
+-- ########################################################################################################################################################################################
 
 -- ###########################################
 -- Steam Sales 2024; NemuPan
@@ -326,8 +333,10 @@ https://i.imgur.com/MEUMfg4.png
 https://i.imgur.com/04lZORQ.png
 --      Sister of Battle; FirstKeeper
 https://i.imgur.com/JmKkGhJ.png
---      Adepta Sororitas, Birth of a Saint; Carl Johan Backman
+--      Birth of a Saint; Carl Johan Backman
 https://i.imgur.com/U190acB.png
+--      Seraphim; Pilt
+https://i.imgur.com/8yDkMw7.png
 -- --------------
 -- Astra Militarum, Imperial Guard
 -- --------------
@@ -345,6 +354,8 @@ https://i.imgur.com/2iuKANG.png
 https://i.imgur.com/IRZL1ON.png
 --      Kasrkin; Eddy Gonzalez Davila
 https://i.imgur.com/Xf5Q6GV.png
+--      Armoured Sentinel; Guillaume Bolis
+https://i.imgur.com/aQAbfNq.png
 -- --------------
 -- T'au
 -- --------------
@@ -427,6 +438,13 @@ https://i.imgur.com/k8lh4VO.png
 https://i.imgur.com/V0sxdB8.png
 --      Siege of Vraks, Artillery; Forge World
 https://i.imgur.com/TaBGZXa.png
+-- --------------
+-- War for Armageddon (any)
+-- --------------
+--      Armageddon Reconquest; Michal Svec
+https://i.imgur.com/sPGDIkg.png
+--      Steel Legion; Javier Quintana
+https://i.imgur.com/4Lb0QQY.png
 -- -----------------------
 -- The Rest
 -- -----------------------
@@ -492,4 +510,11 @@ https://i.imgur.com/3qIq9ah.png
 https://i.imgur.com/DtATXkL.png
 --      Against the Tide at Tarsis Ultra, Death Korps of Krieg vs Tyranids; PenUser
 https://i.imgur.com/tFFlNoY.png
-
+--      Apocalypse; Alex Boyd
+https://i.imgur.com/gfgpdb7.png
+--      Bits and Pieces; Pilt
+https://i.imgur.com/Hzk8na9.png
+--      Black Dragons, Imperium vs Chaos; Marton Kapoli
+https://i.imgur.com/lK291bU.png
+--      Cadian 501st vs T'au; Hector Martinez
+https://i.imgur.com/H27rr41.png
