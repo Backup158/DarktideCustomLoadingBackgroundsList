@@ -27,7 +27,7 @@ Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground
 # Wallpaper Choices
 The file is full of Warhammer related arts. I have included some (commented out) wallpapers as an example at the beginning. Make sure each link leads directly to the image (not just to an album).
 
-To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt`, add '.png' to the end of the url.
+To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt` , add '.png' to the end of the url (or whatever file type it is). There's also a tool to combine the last two steps: https://imgur.plen.io/.
 
 **See the [comment block at the top of the main file](https://github.com/Backup158/DarktideCustomLoadingBackgroundsList/blob/2c93ac5eb9068bb121d18a2b46a18a1e7b586b83/urls.txt#L3C1-L10C46) for further details.**
 
