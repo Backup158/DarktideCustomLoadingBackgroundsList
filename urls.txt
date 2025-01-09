@@ -262,6 +262,8 @@ https://i.imgur.com/B4RgJ4P.png
 https://i.imgur.com/O4kM6h3.png
 --      Shroud of Night, Sisters and Alpha Legion; Akim Kaliberda
 https://i.imgur.com/4BguR2E.png
+--      Imperial Planet Besieged
+https://i.imgur.com/x8znci5.jpeg
 -- --------------
 -- Adeptus Astartes, Space Marines
 --  Including Chaos Space Marines
@@ -352,8 +354,10 @@ https://i.imgur.com/yitQ4MQ.png
 -- --------------
 -- Adeptus Mechanicus
 -- --------------
---      Adeptus Mechanicus, Legio Cybernetica Kastellans
+--      Legio Cybernetica Kastellans
 https://i.imgur.com/scFPSjM.png
+--      Schism of Mars; Cristian Otazu
+https://i.imgur.com/49mKGQE.jpeg
 -- --------------
 -- Adepta Sororitas
 -- --------------
@@ -472,6 +476,31 @@ https://i.imgur.com/4cpv8oW.png
 -- Xenos
 -- -------------------
 -- --------------
+-- Eldar, Aeldari
+-- --------------
+--      Wraithflight (Shield of Baal)
+https://i.imgur.com/qydGA51.png
+--      Breach and Burn; Miguel Mitchell Da Silva
+https://i.imgur.com/e7cAiMh.png
+--      Eternal Crusade: Eldar; Diego Gisbert Llorens
+https://i.imgur.com/Yxq7qlB.png
+--      Last Shot; Yang Zheyy
+https://i.imgur.com/x9MD6LY.png
+-- --------------
+-- Necrons
+-- --------------
+--      Necron Lord
+https://i.imgur.com/QmqN0HX.png
+--      Cryptek; L J Koh
+https://i.imgur.com/Oxe3t1j.png
+-- --------------
+-- Orks
+-- --------------
+--      What a Great Day to Kill Some Humies; TheMaestroNoob
+https://i.imgur.com/fPjLLbw.png
+--      City Busta; Daniel K
+https://i.imgur.com/1yTBtOl.png
+-- --------------
 -- T'au
 -- --------------
 --      T'au Burrito; Destraudo
@@ -486,31 +515,16 @@ https://i.imgur.com/LQLb1MF.png
 https://i.imgur.com/kk2JwCe.png
 --      Against The Greater Threat; Alex McClelland
 https://i.imgur.com/GdCdnoI.png
+--      Darkstrider; Phoebe Herring
+https://i.imgur.com/mpgo2sB.jpeg
+--      The Greater Good; Alexandre Cadinot
+https://i.imgur.com/3ZTN83r.jpeg
 -- --------------
--- Necrons
+-- Tyranids
 -- --------------
---      Necron Lord
-https://i.imgur.com/QmqN0HX.png
---      Cryptek; L J Koh
-https://i.imgur.com/Oxe3t1j.png
--- --------------
--- Eldar, Aeldari
--- --------------
---      Wraithflight (Shield of Baal)
-https://i.imgur.com/qydGA51.png
---      Breach and Burn; Miguel Mitchell Da Silva
-https://i.imgur.com/e7cAiMh.png
---      Eternal Crusade: Eldar; Diego Gisbert Llorens
-https://i.imgur.com/Yxq7qlB.png
---      Last Shot; Yang Zheyy
-https://i.imgur.com/x9MD6LY.png
--- --------------
--- Orks
--- --------------
---      What a Great Day to Kill Some Humies; TheMaestroNoob
-https://i.imgur.com/fPjLLbw.png
---      City Busta; Daniel K
-https://i.imgur.com/1yTBtOl.png
+--      Another Glimpse of the Tyranids; Dinny Nanja
+https://i.imgur.com/hygbIRX.jpeg
+
 -- =======================
 -- Events
 -- =======================
@@ -687,3 +701,5 @@ https://i.imgur.com/Sq3k7oY.png
 https://i.imgur.com/ImOQS7S.png
 --      Tyranids and Sisters; Thomas Elliott
 https://i.imgur.com/RVwsy4v.png
+--      Old One Eye; Marton Kapoli
+https://i.imgur.com/89a8W80.jpeg
