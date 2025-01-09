@@ -159,6 +159,8 @@ https://i.imgur.com/oH3xNvQ.png
 https://i.imgur.com/QWwiuLT.png
 --      Unreleased: Eldar Howling Banshee 2
 https://i.imgur.com/wQtisC0.png
+--      Winter Assault: Cadians
+https://i.imgur.com/p0q6xSl.png
 -- --------------------------------
 -- Space Marine 1
 -- --------------------------------
@@ -264,6 +266,8 @@ https://i.imgur.com/O4kM6h3.png
 https://i.imgur.com/4BguR2E.png
 --      Imperial Planet Besieged
 https://i.imgur.com/x8znci5.jpeg
+--      Imperial Armour
+https://i.imgur.com/GkSWUAY.png
 -- --------------
 -- Adeptus Astartes, Space Marines
 --  Including Chaos Space Marines
@@ -344,6 +348,8 @@ https://i.imgur.com/0RLr4P4.jpeg
 https://i.imgur.com/MZNGCbS.jpeg
 --      Ultramarines Landing; Sergey Nagornov
 https://i.imgur.com/hhjsH0j.png
+--      The Emperor's Finest, Imperial Fists; kongmong
+https://i.imgur.com/GYSlcre.png
 -- --------------
 -- Adeptus Custodes
 -- --------------
@@ -358,6 +364,16 @@ https://i.imgur.com/yitQ4MQ.png
 https://i.imgur.com/scFPSjM.png
 --      Schism of Mars; Cristian Otazu
 https://i.imgur.com/49mKGQE.jpeg
+--      The Warp Storm Rages; Loic Muzy (idk how to transliterate the trema)
+https://i.imgur.com/yxkb5QB.jpeg
+--      Adeptus Mechanicus Cathedral; Rene Kovac
+https://i.imgur.com/I3JpswF.png
+--      Battle Congregation; Mike Lim
+https://i.imgur.com/j3fGNKh.png
+--      Caestus Metalican Triumvirate; Nictanova
+https://i.imgur.com/9LgCUKj.png
+--      Mechanicus; Aaron J Riley
+https://i.imgur.com/fOsE04n.png
 -- --------------
 -- Adepta Sororitas
 -- --------------
@@ -472,6 +488,10 @@ https://i.imgur.com/AzPuD6H.png
 https://i.imgur.com/57Bqwz2.png
 --      Vostroyan Firstborns Bikers; Nictanova
 https://i.imgur.com/4cpv8oW.png
+--      Armageddon Steel Legion
+https://i.imgur.com/emzRpHQ.png
+--      Cadian Shock Troops
+https://i.imgur.com/x7obeny.png
 -- -------------------
 -- Xenos
 -- -------------------
@@ -519,6 +539,18 @@ https://i.imgur.com/GdCdnoI.png
 https://i.imgur.com/mpgo2sB.jpeg
 --      The Greater Good; Alexandre Cadinot
 https://i.imgur.com/3ZTN83r.jpeg
+--      Bravestorm of Dal'yth; Alex Cristi
+https://i.imgur.com/EXUgLCX.png
+--      Brightsword of Tash'var; Alex Cristi
+https://i.imgur.com/zG0hLaA.png
+--      Farsight, Crisis of Faith; Lie Setiawan
+https://i.imgur.com/2lXFw3H.png
+--      Operation Derailment; IamFactor
+https://i.imgur.com/tCpOK2B.png
+--      Order of Our Common Weal; Yosafat Bayupratama (Celeng)
+https://i.imgur.com/S2RnEQl.png
+--      T'au Landing on Dovar; Catherine O'Connor
+https://i.imgur.com/o5BcjB0.png
 -- --------------
 -- Tyranids
 -- --------------
@@ -701,5 +733,19 @@ https://i.imgur.com/Sq3k7oY.png
 https://i.imgur.com/ImOQS7S.png
 --      Tyranids and Sisters; Thomas Elliott
 https://i.imgur.com/RVwsy4v.png
---      Old One Eye; Marton Kapoli
+--      Old One Eye vs Death Korps of Krieg; Marton Kapoli
 https://i.imgur.com/89a8W80.jpeg
+--      Damocles, T'au vs White Scars; Kai Lim
+https://i.imgur.com/3FDAzc2.png
+--      Death Guard vs T'au; Johan Grenier
+https://i.imgur.com/Zijeutt.png
+--      Ghostkeels vs Raven Guard; Wonchun Choi
+https://i.imgur.com/L3fRwn3.png
+--      Into the Dark, Solar Auxilia vs Kroots; Paul Dainton
+https://i.imgur.com/aJ4CSK5.png
+--      Kill Team: Space Wolves vs T'au; Misha Savier
+https://i.imgur.com/sqR3Hh0.png
+--      Plague War, Death Guard vs T'au; Jaekyung Kim
+https://i.imgur.com/QxS8VJD.png
+--      Planetary Onslaught, T'au vs White Scars; Even Amundsen
+https://i.imgur.com/qzgrHVH.png
