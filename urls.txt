@@ -205,9 +205,10 @@ https://i.imgur.com/UmEvOXs.jpeg
 https://i.imgur.com/EILLWwN.png
 --      Bridge Assault; Pavel Shut
 https://i.imgur.com/6Mk0nOJ.png
--- ================================
+-- =======================================================
 -- Stuff with logos
--- ================================
+--   Making this section easy to identify
+-- =======================================================
 -- Gladius
 --      Necrons
 --https://i.imgur.com/XN0o3FY.png
@@ -238,6 +239,13 @@ https://i.imgur.com/GxyZ7D2.png
 https://i.imgur.com/0QtKus3.png
 --      Gather the Troops; Eddy Gonzalez Davila
 https://i.imgur.com/669YWHC.jpeg
+--      Cadian 728th; Hector Martínez
+https://i.imgur.com/dWjDGAI.jpeg
+--      Cadian 501st vs T'au; Hector Martinez
+https://i.imgur.com/H27rr41.png
+--      Prayer; Hector Martínez
+https://i.imgur.com/IWvb7w5.jpeg
+-- ==============================================
 -- --------------------------------
 -- Other Artwork
 -- --------------------------------
@@ -452,8 +460,6 @@ https://i.imgur.com/IRZL1ON.png
 https://i.imgur.com/Xf5Q6GV.png
 --      Armoured Sentinel; Guillaume Bolis
 https://i.imgur.com/aQAbfNq.png
---      Cadian 728th; Hector Martínez
-https://i.imgur.com/dWjDGAI.jpeg
 --      Cadian Advance; Michal Svec
 https://i.imgur.com/ocWmkLI.jpeg
 --      Elysian Ork Hunters; Michal Svec
@@ -462,8 +468,6 @@ https://i.imgur.com/Pk4CE5s.jpeg
 https://i.imgur.com/LJ2TL8r.jpeg
 --      Mordian Iron Guard vs Slaanesh; Marton Kapoli
 https://i.imgur.com/gvnzhCa.jpeg
---      Prayer; Hector Martínez
-https://i.imgur.com/IWvb7w5.jpeg
 --      88th Siege Army; Brilliane Feldo
 https://i.imgur.com/VRPORTD.png
 --      Acastus Porphyrion; Hector Martínez
@@ -595,17 +599,18 @@ https://i.imgur.com/DU5oa55.png
 https://i.imgur.com/2H0C7pZ.png
 -- --------------
 -- War of Beasts/Nightmares on Vigilus
+--  These images are really low res
 -- --------------
 --      Ultramarines and Cadians vs Orks
 https://i.imgur.com/4edDhTT.png
 --      Tooth and Claw
-https://i.imgur.com/q53YEHI.png
+--https://i.imgur.com/q53YEHI.png
 --      Tooth and Claw, Oteck Rumble 2
-https://i.imgur.com/QEQA7lr.png
+--https://i.imgur.com/QEQA7lr.png
 --      Urban Conquest
-https://i.imgur.com/LztyJgD.png
+--https://i.imgur.com/LztyJgD.png
 --      Wake the Dead
-https://i.imgur.com/7Y4MShi.png
+--https://i.imgur.com/7Y4MShi.png
 -- --------------
 -- Siege of Vraks
 -- --------------
@@ -693,8 +698,6 @@ https://i.imgur.com/gfgpdb7.png
 https://i.imgur.com/Hzk8na9.png
 --      Black Dragons, Imperium vs Chaos; Marton Kapoli
 https://i.imgur.com/lK291bU.png
---      Cadian 501st vs T'au; Hector Martinez
-https://i.imgur.com/H27rr41.png
 --      Siege on Hive Acros, T'au vs Death Korps of Krieg; Oliver Hoegh
 https://i.imgur.com/9d0IL1d.jpeg
 --      Tallarn Executioner; Neil Roberts
