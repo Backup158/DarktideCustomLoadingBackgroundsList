@@ -24,6 +24,7 @@
 -- ================================
 -- --------------------------------
 --  Armageddon
+--  https://store.steampowered.com/app/312370/Warhammer_40000_Armageddon/
 -- --------------------------------
 --      Ghazghkull Mag Uruk Thraka
 https://steamcommunity.com/economy/profilebackground/items/312370/307db875fbb3f51b3f5b5678837e463cd6984998.jpg
@@ -37,17 +38,20 @@ https://steamcommunity.com/economy/profilebackground/items/312370/42e01bfe6fa582
 https://steamcommunity.com/economy/profilebackground/items/312370/c3cc25cfa589b1d6d01a1fb4ff62a4545515c5ea.jpg
 -- --------------------------------
 --  Battle Sister VR
+--  https://store.steampowered.com/app/1733890/Warhammer_40000_Battle_Sister/
 -- --------------------------------
 --      Battle Ready Sister
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/2ddc6fa58824390f0428404f003c6ce744cf2a27.jpg
 --      Sister of Battle
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
 -- --------------------------------
--- Chaos Gate: Daemonhunters
+--  Chaos Gate: Daemonhunters
+--  https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/
 -- --------------------------------
 https://imgur.com/FIMIulG.png
 -- --------------------------------
--- Darktide
+--  Darktide
+--  https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/
 -- --------------------------------
 --      Moebian 6th
 -- https://i.imgur.com/br2BHS0.png
@@ -61,7 +65,11 @@ https://i.imgur.com/EILLWwN.png
 --      Bridge Assault; Pavel Shut
 https://i.imgur.com/6Mk0nOJ.png
 -- --------------------------------
--- Dawn of War
+--  Dawn of War
+--   https://store.steampowered.com/app/4570/Warhammer_40000_Dawn_of_War__Anniversary_Edition/
+--   https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
+--   https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
+--    How peculiar that Steam has a page for an unreleased game
 -- --------------------------------
 --      Eldar; Cheol Joo Lee
 https://i.imgur.com/po7J3gc.png
@@ -89,6 +97,7 @@ https://i.imgur.com/wQtisC0.png
 https://i.imgur.com/p0q6xSl.png
 -- --------------------------------
 --  Deathwatch
+--  https://store.steampowered.com/app/394450/Warhammer_40000_Deathwatch__Enhanced_Edition/
 -- --------------------------------
 --      Ultramarines
 https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
@@ -102,6 +111,8 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/684bd17fc2
 https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b2076133ac8bd2a0e0df9b62150.jpg
 -- --------------------------------
 --  Deathwing
+--    https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
+--    https://store.steampowered.com/app/816090/Space_Hulk_Deathwing_Enhanced_Edition/
 -- --------------------------------
 --      Team
 https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
@@ -119,6 +130,7 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/0340be4dd7
 https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
 -- --------------------------------
 --  Mechanicus
+--  https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 -- --------------------------------
 --      AdMech vs Necrons
 https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
@@ -126,6 +138,7 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/f6cbb32077
 https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
 -- --------------------------------
 --  Space Marine 1
+--  https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
 -- --------------------------------
 --      Titus Shoot
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
@@ -136,7 +149,8 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/50b8d9b0e85
 --      Titus Rising
 https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
 -- --------------------------------
--- Space Marine 2
+--  Space Marine 2
+--  https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 -- --------------------------------
 --      Dreadnought vs Tzeentch obelisk thing
 https://i.imgur.com/vj7Gdtw.png
@@ -151,7 +165,8 @@ https://i.imgur.com/okisdLZ.png
 --      Chaos Taint
 https://i.imgur.com/nrsjUMu.png
 -- --------------------------------
--- Rogue Trader
+--  Rogue Trader
+--  https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 -- --------------------------------
 --      Servo Skull
 https://i.imgur.com/Iwr92Z2.png
