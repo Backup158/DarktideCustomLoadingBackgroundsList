@@ -1,9 +1,9 @@
 -- ###########################################
--- Steam Art
---   Art created for Valve Software
+-- Steam Girl Art
+--   Art created for Valve Software by NemuPan
 -- ###########################################
 -- -------------------------------------------
--- Steam Sales 2024; NemuPan
+-- Steam Sales 2024
 -- -------------------------------------------
 --  Spring
 --      Swift Delivery
