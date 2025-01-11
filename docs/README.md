@@ -7,7 +7,7 @@ Using all of these at once might kill your fps if you run a heavy setup. I don't
 # Installation
 Make sure `Load Internet` is 'On' in the Mod Options. Then add the list with one of the following methods:
 
-## Adding as a Curated List
+## Adding as a Curated List (Preferred)
 1) Open the text file on the repository
 ![File in repo](https://github.com/user-attachments/assets/d3f54624-0bfe-41b7-8f91-0713f337d250)
 2) Click on 'Raw'
@@ -25,7 +25,7 @@ Copy the relevant contents of `urls.txt` and paste it into `<Darktide Mods>/Cust
 Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground` folder and replace the existing file. Rename the existing file if you want to use it again later (whichever is named `urls.txt` is the active one. other files won't load).
 
 # Wallpaper Choices
-The file is full of Warhammer related arts. I have included some (commented out) wallpapers as an example at the beginning. Make sure each link leads directly to the image (not just to an album).
+The file is full of Warhammer related arts. Make sure each link leads directly to the image (not just to an album).
 
 To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt` , add '.png' to the end of the url (or whatever file type it is). There's also a tool to combine the last two steps: https://imgur.plen.io/.
 
