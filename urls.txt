@@ -1,37 +1,27 @@
 -- ########################################################################################################################################################################################
--- List maintained by Backup158
--- Images are sourced from Steam Backgrounds or various wallpaper sites (reuploaded to my imgur album)
---      Cropped to 1920x1080
---      It seems the resolution must match your monitor exactly. I tried a 2560x1440 wallpaper and it didn't work even though it's 16:9 too.
--- For reuploaded art, I tried to find the original artists through reverse image search
---      <Media Source>: <Title>; <Artist>
---        This is mirrored (mostly) in the imgur album. I also added markers for the significantly involved factions (Mostly for the latest additions. I'm adding these by hand instead of webscraping because I'm a noob)
---      Titles are usually ones I made up if the original is something generic
+-- WARHAMMER 40,000 ART - Stolen Without Remorse
+--   List maintained by Backup158
+--   Images are sourced from Steam Backgrounds or various nooks and crannies of the Internet (reuploaded to my imgur album)
+--      Cropped to 1920x1080, 16:9
+--      After v1.0 of Custom Loading Backgrounds, images that do not match your aspect ratio are squished to fill or left hanging in the void
+--      https://i.imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C
+--   For reuploaded art, I tried to find the original artists through reverse image search
+--      <Media Source>: <Title>, <Factions>; <Artist>
+--        This is mirrored (mostly) in the imgur album. Faction tags are added if not already in the section or title (Mostly for the latest additions. I'm adding these by hand instead of webscraping because I'm a noob)
+--      Titles are what the artist chose, but I made them up if the original was generic
 --        Title is on the line before the link
 --        Comments only work if it's a new line
---      I usually only list one artist name
+--      I usually only list one of the artist's names
 --        If there was an alias I used that ended up being a duplicate, I included both for some reason
 --        I tend to use real names, but use usernames if I don't see one
---        Names with diacritic/accent marks get collapsed to plain letters. I know this is incorrect but I don't know what encoding this file uses and don't want a random letter to screw things up.
+--        Names with diacritic/accent marks are transliterated to English phonetics (if I didn't mess up)
+--          I don't know what encoding this file uses and don't want read errors when the file gets opened by Darktide
 --          I should figure that out
 --          Wait why am I writing all of this out in a file that's being distributed publically
 -- ########################################################################################################################################################################################
-
--- ###########################################
--- Warhammer 30k/40k
--- ###########################################
 -- ================================
--- Steam Wallpapers
+-- Art from Games
 -- ================================
--- --------------------------------
---  Space Marine
--- --------------------------------
---      Titus Shoot
-https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
---      Ultramarine Running Shot
-https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
---      Titus Rising
-https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
 -- --------------------------------
 --  Armageddon
 -- --------------------------------
@@ -46,36 +36,6 @@ https://steamcommunity.com/economy/profilebackground/items/312370/42e01bfe6fa582
 --      Yarrick's Camp
 https://steamcommunity.com/economy/profilebackground/items/312370/c3cc25cfa589b1d6d01a1fb4ff62a4545515c5ea.jpg
 -- --------------------------------
---  Deathwing
--- --------------------------------
---      Team
-https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
---      Surrounded
-https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
---      Threat
-https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
---      To War
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
---      Battle Brothers
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
---      Stand Against Darkness
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
---      Watchful
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
--- --------------------------------
---  Deathwatch
--- --------------------------------
---      Ultramarines
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
---      Space Wolf
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
---      Dark Angels
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
---      Blood Angels
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
---      Imperial Fists
-https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b2076133ac8bd2a0e0df9b62150.jpg
--- --------------------------------
 --  Battle Sister VR
 -- --------------------------------
 --      Battle Ready Sister
@@ -83,20 +43,23 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/2ddc6fa58
 --      Sister of Battle
 https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
 -- --------------------------------
---  Mechanicus
--- --------------------------------
---      AdMech vs Necrons
-https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
---      Necron Statues
-https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
--- ================================
---  Reuploaded Art
---  https://i.imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C
--- ================================
--- --------------------------------
 -- Chaos Gate: Daemonhunters
 -- --------------------------------
 https://imgur.com/FIMIulG.png
+-- --------------------------------
+-- Darktide
+-- --------------------------------
+--      Moebian 6th
+-- https://i.imgur.com/br2BHS0.png
+--      Looking on Hive Tertium
+-- https://i.imgur.com/KQtEqVz.png
+-- The above concept art are included in KamiUnit's curated list
+--      Gathering of the Heavy Brigade; 0ouch
+https://i.imgur.com/UmEvOXs.jpeg
+--      Rejects of Tertium; Lionel Schramm
+https://i.imgur.com/EILLWwN.png
+--      Bridge Assault; Pavel Shut
+https://i.imgur.com/6Mk0nOJ.png
 -- --------------------------------
 -- Dawn of War
 -- --------------------------------
@@ -125,10 +88,53 @@ https://i.imgur.com/wQtisC0.png
 --      Winter Assault: Cadians
 https://i.imgur.com/p0q6xSl.png
 -- --------------------------------
--- Space Marine 1
+--  Deathwatch
+-- --------------------------------
+--      Ultramarines
+https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
+--      Space Wolf
+https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
+--      Dark Angels
+https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
+--      Blood Angels
+https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
+--      Imperial Fists
+https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b2076133ac8bd2a0e0df9b62150.jpg
+-- --------------------------------
+--  Deathwing
+-- --------------------------------
+--      Team
+https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
+--      Surrounded
+https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
+--      Threat
+https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
+--      To War
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
+--      Battle Brothers
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
+--      Stand Against Darkness
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
+--      Watchful
+https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
+-- --------------------------------
+--  Mechanicus
+-- --------------------------------
+--      AdMech vs Necrons
+https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
+--      Necron Statues
+https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
+-- --------------------------------
+--  Space Marine 1
 -- --------------------------------
 --      Titus Shoot
+https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
+--      Titus Shoot (Full)
 https://i.imgur.com/V4UAmgp.png
+--      Ultramarine Running Shot
+https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
+--      Titus Rising
+https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
 -- --------------------------------
 -- Space Marine 2
 -- --------------------------------
@@ -149,25 +155,16 @@ https://i.imgur.com/nrsjUMu.png
 -- --------------------------------
 --      Servo Skull
 https://i.imgur.com/Iwr92Z2.png
+-- ================================
+-- Other Fan Films
+-- ================================
 -- --------------------------------
 -- Astartes
+--  Syama Pederson
 -- --------------------------------
 --      Lost
 https://i.imgur.com/OsKfFB8.png
--- --------------------------------
--- Darktide
--- --------------------------------
---      Moebian 6th
--- https://i.imgur.com/br2BHS0.png
---      Looking on Hive Tertium
--- https://i.imgur.com/KQtEqVz.png
--- The above concept art are included in KamiUnit's curated list
---      Gathering of the Heavy Brigade; 0ouch
-https://i.imgur.com/UmEvOXs.jpeg
---      Rejects of Tertium; Lionel Schramm
-https://i.imgur.com/EILLWwN.png
---      Bridge Assault; Pavel Shut
-https://i.imgur.com/6Mk0nOJ.png
+
 -- =======================================================
 -- Stuff with logos
 --   Making this section easy to identify
