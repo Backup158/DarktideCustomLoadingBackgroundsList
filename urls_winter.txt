@@ -1,10 +1,10 @@
 -- ##########################
 -- Winter Themed
 -- ##########################
--- Smissmas
+-- Steam Smissmas
 https://cdn.steamstatic.com/steamcommunity/public/images/items/991980/07e916b4a692ede3a52f4ba1dfb478a3cf81a5b6.jpg
 -- --------------------------
--- Holiday Sale 2013
+-- Steam Holiday Sale 2013
 -- --------------------------
 --  Snowy Cabin
 https://cdn.steamstatic.com/steamcommunity/public/images/items/267420/36041a3b2aa6db4d4d643a0f9cb2f3c84e7db3c9.jpg
@@ -13,7 +13,7 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/267420/f7bd3ffe33
 --  Payday Snowglobe
 https://cdn.steamstatic.com/steamcommunity/public/images/items/267420/58d081e7abe9e6dab67f3cdb0b34b58d87518b13.jpg
 -- --------------------------
--- Winter Sale 2024
+-- Steam Winter Sale 2024
 -- --------------------------
 --  Red Wrapping
 https://cdn.steamstatic.com/steamcommunity/public/images/items/2861720/21c3fdc05977efc60a541339b38954b0e9a7c8d7.jpg
