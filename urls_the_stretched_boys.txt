@@ -1,0 +1,106 @@
+-- ########################################################################################################################################################################################
+-- WARHAMMER 40,000 ART - The Stretched Boys
+--  These are not exactly 1920x1080, but are close enough that the stretching isn't very noticable
+--      List maintained by Backup158
+--      https://imgur.com/a/custom-loading-backgrounds-that-go-hard-not-1920x1080-RqheFXb
+--  Stolen from various corners of the Internet, though I tried to find the original artists through reverse image search
+--      <Media Source>: <Title>, <Tags>; <Artist>
+--      Tags are faction names not already in the title, so you can ctrl+f to find which ones to remove
+--      Names with diacritic/accent marks are transliterated to English phonetics (if I didn't mess up)
+--          I don't know what encoding this file uses and don't want read errors when the file gets opened by Darktide
+-- ########################################################################################################################################################################################
+-- =======================
+-- Single Factions
+-- =======================
+-- -------------------
+-- The Imperium of Man
+-- -------------------
+--  Warlords Charge, Imperial Knights and Astra Militarum; Kuba Grzybowski
+https://i.imgur.com/KDr724C.png
+--  Yarrick on Armageddon; Thibault Ollier
+https://i.imgur.com/5bcUwaK.png
+--  War in the Sprint, Adeptus Astartes, Adepta Sororitas; Pilt
+https://i.imgur.com/wnO57RE.png
+--  Squad Goals, Adeptus Astartes; John Stone
+https://i.imgur.com/S9md7H8.png
+--  Last Stand, Adeptus Astartes, Astra Militarum; Kuba Grzybowski
+https://i.imgur.com/SLh8N62.png
+--  For the Emperor, Adepta Sororitas, Astra Militarum; Remy Paul
+https://i.imgur.com/sNSgypG.png
+--  Death March, Adeptus Astartes, Astra Militarum; Kuba Grzybowski
+https://i.imgur.com/O3BmInO.png
+-- --------------
+-- Adepta Sororitas
+-- --------------
+--  Sisters Of Battle; Zheng Wei
+https://i.imgur.com/ebvfAz2.png
+--  Sister of Battle; Heonhwa Choe
+https://i.imgur.com/UPLOrPG.png
+-- --------------
+-- Adeptus Astartes
+-- --------------
+--  Last Charge on Arkhona; Tony Cezar
+https://i.imgur.com/JGwBq4A.png
+-- --------------
+-- Adeptus Mechanicus
+-- --------------
+--  Mechanicus; Maxim Bazhenov
+https://i.imgur.com/JJxQ0O8.png
+-- --------------
+-- Astra Militarum
+-- --------------
+--  Tallarn Desert Raiders; Matt Hancox
+https://i.imgur.com/NhhR2cL.png
+--  Stradian's Charge; Michal Svec
+https://i.imgur.com/VFlWVVC.png
+--  Reinforcement is Coming; Malte Zirbel
+https://i.imgur.com/g94HcwQ.png
+--  Leman Russ Battle Tank; Mark Tarrisse
+https://i.imgur.com/1CZTKll.png
+--  Imperial Guard; Andrew Lowry
+https://i.imgur.com/LxxCHsa.png
+--  Cadian Shock Troops; Dmitriy Mironov
+https://i.imgur.com/ZeNRtjE.png
+--  Cadian Advance; Michal Svec
+https://i.imgur.com/4knZE9t.png
+-- =======================
+-- Mixed Factions
+-- =======================
+--  White Scars vs T'au, Adeptus Astartes; Fares Maese
+https://i.imgur.com/Kbdl6Ea.png
+--  T'au Yoink, Adeptus Astartes; Alex Cristi
+https://i.imgur.com/yvOUNaw.png
+--  T'au vs Imperial Guard, Astra Militarum; JiHun Lee
+https://i.imgur.com/5yjLTYr.png
+--  T'au Empire vs Adeptus Mechanicus; Roman Kerimov
+https://i.imgur.com/SjIFtVC.png
+--  Space Hulk Loot; Felix Tisch
+https://i.imgur.com/hBHqOVN.png
+--  Sister vs Nid
+https://i.imgur.com/ISOEWCD.png
+--  Siege of Vraks; Vukasin Ivkovic
+https://i.imgur.com/FAcBmdg.png
+--  Shield of Baal; Jose Daniel Cabrera Penya
+https://i.imgur.com/x9DxoCg.png
+--  Pursuit, Adepta Sororitas, Tyranids; Yang Zheyy
+https://i.imgur.com/FtN2wgr.png
+--  Praetorian Guard vs Orks, Astra Militarum; Diego Gisbert Llorens
+https://i.imgur.com/pFUPKJO.png
+--  Kill the Ork, Adepta Sororitas; Yang Zheyy
+https://i.imgur.com/Mh1eLnq.png
+--  Indomitable 101st Krieg Regiment, Astra Militarum, Necrons; Rian Macanip
+https://i.imgur.com/6IbeJjO.png
+--  Imperial Guard Advance, Astra Militarum, Adeptus Astartes (Night Lords); Waru
+https://i.imgur.com/Mwmg0vl.png
+--  Guilliman's Return; Alex Cristi
+https://i.imgur.com/qrZQuhU.png
+--  Coup de Grace, Adeptus Astartes, T'au; Alec Thomas
+https://i.imgur.com/hYDJatJ.png
+--  Chaos Assault, Adeptus Astartes, Astra Militarum; Miguel Iglesias
+https://i.imgur.com/3TmHZLI.png
+--  Cadia Stands, Adeptus Astartes, Astra Militarum; David Ok
+https://i.imgur.com/v4xcsYM.png
+--  Baneblades vs Stormsurges, Astra Militarum, T'au; Nemanja Stankovic
+https://i.imgur.com/J3IzNuA.png
+--  Astra Militarum vs T'au; Ro Man
+https://i.imgur.com/HVjYspm.png
