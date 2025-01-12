@@ -226,13 +226,13 @@ https://i.imgur.com/IWvb7w5.jpeg
 -- --------------------------------
 -- Other Artwork
 -- --------------------------------
--- =======================
+-- ============================================================================================================
 -- Factions
 --  Section titles contain art with just that faction
--- =======================
--- -------------------
+-- ============================================================================================================
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -- The Imperium of Man
--- -------------------
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 --      Roboute Guilliman's Indominatus Crusade; Firat Solhan
 https://i.imgur.com/Qu6gtzB.jpeg
 --      Commander; Pilt
@@ -254,9 +254,68 @@ https://i.imgur.com/x8znci5.jpeg
 --      Imperial Armour
 https://i.imgur.com/GkSWUAY.png
 -- --------------
--- Adeptus Astartes, Space Marines
---  Including Chaos Space Marines
+-- Adepta Sororitas
 -- --------------
+--      Sister of Battle Reading (I think it's OC from the War Maidens channel? I don't speak Russian and I'm not digging through these machine translated pages)
+https://i.imgur.com/yy0TNN1.png
+--      Sister of Battle; Jianing Hu
+https://i.imgur.com/oDqIEqo.png
+--      Sister of Battle; KinpatsuCosplay (DaveYangPhoto)
+https://i.imgur.com/MEUMfg4.png
+--      Saint Celestine; nooblar
+https://i.imgur.com/04lZORQ.png
+--      Sister of Battle; FirstKeeper
+https://i.imgur.com/JmKkGhJ.png
+--      Birth of a Saint; Carl Johan Backman
+https://i.imgur.com/U190acB.png
+--      Seraphim; Pilt
+https://i.imgur.com/8yDkMw7.png
+--      Dense Fog; Yang Zheyy
+https://i.imgur.com/sbkYVbV.jpeg
+--      Ego Queen; Karl Hafner
+https://i.imgur.com/sZD4ehw.jpeg
+--      Lux in Tenebris; Ivana Abbate
+https://i.imgur.com/q5Fs1Ho.jpeg
+--      Our Mercy; lamoz571
+https://i.imgur.com/dEOKmj8.jpeg
+--      Sororitas Cavalieras; Benjamin Del Rio
+https://i.imgur.com/uft6FJP.jpeg
+--      Emperor's Valkyrie; Frankgu
+https://i.imgur.com/STgFoXL.jpeg
+--      Adepta Sororitas and Saint Celestine; Kamila Szutenberg
+https://i.imgur.com/hoQ5CY1.png
+--      Codex, 9th ed: Adepta Sororitas; Paul Dainton
+https://i.imgur.com/Rm2NXji.png
+--      Battle Sister; Yang Zheyy
+https://i.imgur.com/mQXUupT.png
+--      Faith, Flame, and Bolter; Leos Ng Okita
+https://i.imgur.com/PIbE2y9.png
+--      Living Saint; Alex Cristi
+https://i.imgur.com/VDv8tJU.png
+--      Living Saint Hazel; L J Koh
+https://i.imgur.com/FjLtmRN.png
+--      Living Saint; Tamas Patkos
+https://i.imgur.com/ftouUAU.png
+--      Living Saint; Yang Zheyy
+https://i.imgur.com/9CbvuvP.png
+--      Order of the Bloody Rose; Yang Zheyy
+https://i.imgur.com/AntuQmY.png
+--      Saint Celestine; Igor Sid
+https://i.imgur.com/NhGRA7e.png
+--      Sister of Battle; Tamas Patkos
+https://i.imgur.com/1lG6H8q.png
+--      Sisters of Battle; Baloolax
+https://i.imgur.com/cuqQQUn.png
+--      Sleep Soundly; Yang Zheyy
+https://i.imgur.com/nSymytc.png
+--      Triumph of Saint Katherine; David Astruga
+https://i.imgur.com/dwr2Iqb.png
+--      Wilderness Hunting; Yang Zheyy
+https://i.imgur.com/H9IB52R.png
+-- ------------------------------------------------------------------------------------
+-- Adeptus Astartes, Space Marines
+--  Including Chaos Space Marines because screw you
+-- ------------------------------------------------------------------------------------
 --      Blood Angels
 https://i.imgur.com/OKDaHK5.png
 --      Blood Angels
@@ -335,16 +394,18 @@ https://i.imgur.com/MZNGCbS.jpeg
 https://i.imgur.com/hhjsH0j.png
 --      The Emperor's Finest, Imperial Fists; kongmong
 https://i.imgur.com/GYSlcre.png
--- --------------
+--      Death Guard; Coco Killer
+https://i.imgur.com/8gQ3xNW.png
+-- ------------------------------------------------------------------------------------
 -- Adeptus Custodes
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Custodes General; bachzim
 https://i.imgur.com/cEev2bK.png
 --      Charge! For the Emperor, Adeptus Custodes vs Thousand Sons; bachzim
 https://i.imgur.com/yitQ4MQ.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- Adeptus Mechanicus
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Legio Cybernetica Kastellans
 https://i.imgur.com/scFPSjM.png
 --      Schism of Mars; Cristian Otazu
@@ -359,68 +420,9 @@ https://i.imgur.com/j3fGNKh.png
 https://i.imgur.com/9LgCUKj.png
 --      Mechanicus; Aaron J Riley
 https://i.imgur.com/fOsE04n.png
--- --------------
--- Adepta Sororitas
--- --------------
---      Sister of Battle Reading (I think it's OC from the War Maidens channel? I don't speak Russian and I'm not digging through these machine translated pages)
-https://i.imgur.com/yy0TNN1.png
---      Sister of Battle; Jianing Hu
-https://i.imgur.com/oDqIEqo.png
---      Sister of Battle; KinpatsuCosplay (DaveYangPhoto)
-https://i.imgur.com/MEUMfg4.png
---      Saint Celestine; nooblar
-https://i.imgur.com/04lZORQ.png
---      Sister of Battle; FirstKeeper
-https://i.imgur.com/JmKkGhJ.png
---      Birth of a Saint; Carl Johan Backman
-https://i.imgur.com/U190acB.png
---      Seraphim; Pilt
-https://i.imgur.com/8yDkMw7.png
---      Dense Fog; Yang Zheyy
-https://i.imgur.com/sbkYVbV.jpeg
---      Ego Queen; Karl Hafner
-https://i.imgur.com/sZD4ehw.jpeg
---      Lux in Tenebris; Ivana Abbate
-https://i.imgur.com/q5Fs1Ho.jpeg
---      Our Mercy; lamoz571
-https://i.imgur.com/dEOKmj8.jpeg
---      Sororitas Cavalieras; Benjamin Del Rio
-https://i.imgur.com/uft6FJP.jpeg
---      Emperor's Valkyrie; Frankgu
-https://i.imgur.com/STgFoXL.jpeg
---      Adepta Sororitas and Saint Celestine; Kamila Szutenberg
-https://i.imgur.com/hoQ5CY1.png
---      Codex, 9th ed: Adepta Sororitas; Paul Dainton
-https://i.imgur.com/Rm2NXji.png
---      Battle Sister; Yang Zheyy
-https://i.imgur.com/mQXUupT.png
---      Faith, Flame, and Bolter; Leos Ng Okita
-https://i.imgur.com/PIbE2y9.png
---      Living Saint; Alex Cristi
-https://i.imgur.com/VDv8tJU.png
---      Living Saint Hazel; L J Koh
-https://i.imgur.com/FjLtmRN.png
---      Living Saint; Tamas Patkos
-https://i.imgur.com/ftouUAU.png
---      Living Saint; Yang Zheyy
-https://i.imgur.com/9CbvuvP.png
---      Order of the Bloody Rose; Yang Zheyy
-https://i.imgur.com/AntuQmY.png
---      Saint Celestine; Igor Sid
-https://i.imgur.com/NhGRA7e.png
---      Sister of Battle; Tamas Patkos
-https://i.imgur.com/1lG6H8q.png
---      Sisters of Battle; Baloolax
-https://i.imgur.com/cuqQQUn.png
---      Sleep Soundly; Yang Zheyy
-https://i.imgur.com/nSymytc.png
---      Triumph of Saint Katherine; David Astruga
-https://i.imgur.com/dwr2Iqb.png
---      Wilderness Hunting; Yang Zheyy
-https://i.imgur.com/H9IB52R.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- Astra Militarum, Imperial Guard
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Guardsman Grave (Supposedly a Harakoni Warhawk by Brilliane Feldo but I don't see it on any of his official pages)
 https://i.imgur.com/vOg2kqW.png
 --      Lord Solar
@@ -471,12 +473,12 @@ https://i.imgur.com/4cpv8oW.png
 https://i.imgur.com/emzRpHQ.png
 --      Cadian Shock Troops
 https://i.imgur.com/x7obeny.png
--- -------------------
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -- Xenos
--- -------------------
--- --------------
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ------------------------------------------------------------------------------------
 -- Eldar, Aeldari
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Wraithflight (Shield of Baal)
 https://i.imgur.com/qydGA51.png
 --      Breach and Burn; Miguel Mitchell Da Silva
@@ -485,23 +487,23 @@ https://i.imgur.com/e7cAiMh.png
 https://i.imgur.com/Yxq7qlB.png
 --      Last Shot; Yang Zheyy
 https://i.imgur.com/x9MD6LY.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- Necrons
 -- --------------
 --      Necron Lord
 https://i.imgur.com/QmqN0HX.png
 --      Cryptek; L J Koh
 https://i.imgur.com/Oxe3t1j.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- Orks
--- --------------
+-- ------------------------------------------------------------------------------------
 --      What a Great Day to Kill Some Humies; TheMaestroNoob
 https://i.imgur.com/fPjLLbw.png
 --      City Busta; Daniel K
 https://i.imgur.com/1yTBtOl.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- T'au
--- --------------
+-- ------------------------------------------------------------------------------------
 --      T'au Burrito; Destraudo
 https://i.imgur.com/RxLqcwQ.png
 --      Join the T'au Empire; Moritz Bludau
@@ -530,18 +532,18 @@ https://i.imgur.com/tCpOK2B.png
 https://i.imgur.com/S2RnEQl.png
 --      T'au Landing on Dovar; Catherine O'Connor
 https://i.imgur.com/o5BcjB0.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- Tyranids
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Another Glimpse of the Tyranids; Dinny Nanja
 https://i.imgur.com/hygbIRX.jpeg
 
--- =======================
+-- ============================================================================================================
 -- Events
--- =======================
--- --------------
+-- ============================================================================================================
+-- ------------------------------------------------------------------------------------
 -- Horus Heresy
--- --------------
+-- ------------------------------------------------------------------------------------
 --      C'mon You Know This One
 https://i.imgur.com/lRZ7iUq.png
 --      Horus Heresy 1: Horus Rising
@@ -572,10 +574,10 @@ https://i.imgur.com/hroqT4v.jpeg
 https://i.imgur.com/DU5oa55.png
 --      Night Lords vs Solar Auxilia; Victor Fernandez
 https://i.imgur.com/2H0C7pZ.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- War of Beasts/Nightmares on Vigilus
 --  These images are really low res
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Ultramarines and Cadians vs Orks
 https://i.imgur.com/4edDhTT.png
 --      Tooth and Claw
@@ -586,25 +588,25 @@ https://i.imgur.com/4edDhTT.png
 --https://i.imgur.com/LztyJgD.png
 --      Wake the Dead
 --https://i.imgur.com/7Y4MShi.png
--- --------------
+-- ------------------------------------------------------------------------------------
 -- Siege of Vraks
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Death Korps of Krieg, Death Riders; Daandric
 https://i.imgur.com/V0sxdB8.png
 --      Artillery; Forge World
 https://i.imgur.com/TaBGZXa.png
 --      Hive Ferrograd; Janovich
 https://i.imgur.com/t7CuYYd.jpeg
--- --------------
+-- ------------------------------------------------------------------------------------
 -- War for Armageddon (any)
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Armageddon Reconquest; Michal Svec
 https://i.imgur.com/sPGDIkg.png
 --      Steel Legion; Javier Quintana
 https://i.imgur.com/4Lb0QQY.png
--- =======================
+-- ============================================================================================================
 -- The Rest
--- =======================
+-- ============================================================================================================
 --      Drukhari vs White Scars
 https://i.imgur.com/CEH1i2g.png
 --      Kill Team: Skitarii vs Genestealer Cultists
@@ -727,3 +729,5 @@ https://i.imgur.com/sqR3Hh0.png
 https://i.imgur.com/QxS8VJD.png
 --      Planetary Onslaught, T'au vs White Scars; Even Amundsen
 https://i.imgur.com/qzgrHVH.png
+--      Eternal Crusade, Adeptus Astartes vs Orks
+https://i.imgur.com/rkMurJz.png
