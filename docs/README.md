@@ -33,12 +33,12 @@ See the list of commands on the mod description page. Using the `/bg #` chat com
 The list will be in random order. 
 
 # List Contents
-## _Stolen Without Remorse_ - The Main File
+## _Stolen Without Remorse_ - The Main File (urls.txt)
 The main file is full of Warhammer-related arts. I found most of these in various nooks and crannies around the Internet, then I cropped and reuploaded them to one source, crediting sources as often as possible.
 
 **See the [comment block at the top of this file](https://github.com/Backup158/DarktideCustomLoadingBackgroundsList/blob/2c93ac5eb9068bb121d18a2b46a18a1e7b586b83/urls.txt#L3C1-L10C46) for further details.**
 
-## _The Stretched Boys_ (urls_the_stretched_boys.txt)
+## _The Stretched Boys_
 Wallpapers that would've gone into the main file if they were truly 16:9. Most of these are just barely off, and the stretching isn't very noticable. 
 
 ## _Darktide Promo_
