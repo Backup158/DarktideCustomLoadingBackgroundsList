@@ -19,21 +19,36 @@ Make sure `Load Internet` is 'On' in the Mod Options. Then add the list with one
 
 ## Adding as the Main List
 Choose one of the following methods.
-### Appending to existing list
-Copy the relevant contents of `urls.txt` and paste it into `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground/urls.txt`
-### Replacing existing list
+### Appending to the Existing Main List
+Copy the relevant contents of `urls.txt` and paste it into `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground/urls.txt`. Make sure each link leads directly to the image (not just to an album).
+### Replacing the Existing Main List
 Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground` folder and replace the existing file. Rename the existing file if you want to use it again later (whichever is named `urls.txt` is the active one. other files won't load).
 
-# Wallpaper Choices
-The file is full of Warhammer related arts. Make sure each link leads directly to the image (not just to an album).
-
-To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt` , add '.png' to the end of the url (or whatever file type it is). There's also a tool to combine the last two steps: https://imgur.plen.io/.
-
-**See the [comment block at the top of the main file](https://github.com/Backup158/DarktideCustomLoadingBackgroundsList/blob/2c93ac5eb9068bb121d18a2b46a18a1e7b586b83/urls.txt#L3C1-L10C46) for further details.**
-
-I've included alternative lists (I guess you can call them modules? sets?) aside from the main file. These have stricter theming.
+# Adding Your Own Images
+To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt` , add '.png' to the end of the url (or whatever file type it is) and 'i.' in front of 'imgur'. There's a tool to do the last two actions for you: https://imgur.plen.io/.
 
 # Testing the Mod
 See the list of commands on the mod description page. Using the `/bg #` chat command will display the image onscreen for you to see. With v1.2+, this preview will take up the whole screen.
 ![BG test command](https://github.com/user-attachments/assets/5b0819a6-934b-4cdd-a36a-57c30b2c8fea)
 The list will be in random order. 
+
+# List Contents
+## _Stolen Without Remorse_ - The Main File
+The main file is full of Warhammer-related arts. I found most of these in various nooks and crannies around the Internet, then I cropped and reuploaded them to one source, crediting sources as often as possible.
+
+**See the [comment block at the top of this file](https://github.com/Backup158/DarktideCustomLoadingBackgroundsList/blob/2c93ac5eb9068bb121d18a2b46a18a1e7b586b83/urls.txt#L3C1-L10C46) for further details.**
+
+## _The Stretched Boys_ (urls_the_stretched_boys.txt)
+Wallpapers that would've gone into the main file if they were truly 16:9. Most of these are just barely off, and the stretching isn't very noticable. 
+
+## _Darktide Promo_
+Promotional screenshots for Darktide
+
+## _Steam Girl_
+Art from the seasonal Steam sales in 2024, featuring Steam Girl by Nemu.
+
+## _Winter_
+Some winter stuff, mostly from Steam
+
+## _Fraternal Love_
+Art from The Coffin of Andy and Leyley
