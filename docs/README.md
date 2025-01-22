@@ -27,7 +27,19 @@ Choose one of the following methods.
   Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground` folder, replacing the existing file. Rename the existing file beforehand if you want to use it again later (the mod only reads `urls.txt`; other files won't be used).
 
 # Adding Your Own Images
-To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt` , add '.png' to the end of the url (or whatever file type it is) and 'i.' in front of 'imgur'. There's a tool to do the last two actions for you: https://imgur.plen.io/.
+## Through Imgur Album
+1) Click 'Copy Link'
+2) Add 'i.' in front of 'imgur' and '.png' to the end of the url (or whatever file type it is)
+3) Paste it into `urls.txt`
+
+There's a tool to do the last two actions for you: https://imgur.plen.io/. Paste the link into this website first, then use the link it creates for step 3.
+
+## From a Webpage
+1) Right click on the image
+2) Click `Copy Image Link`
+3) Paste it into `urls.txt`
+
+Be aware that some of these images may be thumbnails, which are low resolution! Usually, you can get the full image by clicking `Open Image in New Tab` in step 2, then copying the url from there. However, some websites don't allow access to images if visited from a direct link.
 
 # Testing the Mod
 See the list of commands on the mod description page. Using the `/bg #` chat command will display the image onscreen for you to see. With v1.2+, this preview will take up the whole screen.
