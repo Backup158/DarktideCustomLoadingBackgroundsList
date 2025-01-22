@@ -19,10 +19,12 @@ Make sure `Load Internet` is 'On' in the Mod Options. Then add the list with one
 
 ## Adding as the Main List
 Choose one of the following methods.
-### Appending to the Existing Main List
-Copy the relevant contents of `urls.txt` and paste it into `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground/urls.txt`. Make sure each link leads directly to the image (not just to an album).
-### Replacing the Existing Main List
-Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground` folder and replace the existing file. Rename the existing file if you want to use it again later (whichever is named `urls.txt` is the active one. other files won't load).
+* Appending to the Existing Main List
+
+  Copy the relevant contents of `urls.txt` and paste it into `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground/urls.txt`. Make sure each link leads directly to the image (not just to an album).
+* Replacing the Existing Main List
+
+  Download `urls.txt` and put it into the `<Darktide Mods>/CustomLoadingBackground/scripts/mods/CustomLoadingBackground` folder, replacing the existing file. Rename the existing file beforehand if you want to use it again later (the mod only reads `urls.txt`; other files won't be used).
 
 # Adding Your Own Images
 To add your own images from some other imgur album: click 'Copy Link', paste it into `urls.txt` , add '.png' to the end of the url (or whatever file type it is) and 'i.' in front of 'imgur'. There's a tool to do the last two actions for you: https://imgur.plen.io/.
