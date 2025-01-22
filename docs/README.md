@@ -2,7 +2,7 @@ Various collections of 1920x1080 wallpapers for use with tickbox's [Custom Loadi
 
 Using wallpapers from Steam profile backgrounds and reuploaded art from various sources (so I can crop them). Reuploaded wallpapers hosted on [Imgur](https://imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C).
 
-Using all of these at once might kill your fps if you run a heavy setup. I don't know why, it just got worse after adding a bunch of wallpapers. I tried 200 wallpapers on a light setup (one without Extended Weapon Customization lol) and didn't notice much of a difference.
+Using all of these at once might kill your fps if you run a heavy setup. I don't know why; it just got worse after adding a bunch of wallpapers. I tried 200 wallpapers on a light setup (one without Extended Weapon Customization lol) and didn't notice much of a difference.
 
 # Installation
 Make sure `Load Internet` is 'On' in the Mod Options. Then add the list with one of the following methods:
@@ -34,7 +34,7 @@ The list will be in random order.
 
 # List Contents
 ## _Stolen Without Remorse_ - The Main File (urls.txt)
-The main file is full of Warhammer-related arts. I found most of these in various nooks and crannies around the Internet, then I cropped and reuploaded them to one source, crediting sources as often as possible.
+The main file is full of Warhammer-related arts. The list is separated by which game it's from and what factions are depicted.
 
 **See the [comment block at the top of this file](https://github.com/Backup158/DarktideCustomLoadingBackgroundsList/blob/2c93ac5eb9068bb121d18a2b46a18a1e7b586b83/urls.txt#L3C1-L10C46) for further details.**
 
