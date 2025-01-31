@@ -143,7 +143,7 @@ https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/d109414187
 --  https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
 -- --------------------------------
 --      Titus Shoot
-https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
 --      Titus Shoot (Full)
 https://i.imgur.com/V4UAmgp.png
 --      Ultramarine Running Shot
@@ -212,6 +212,8 @@ https://i.imgur.com/qCoOguH.png
 https://i.imgur.com/tjkHRq5.png
 --      Dune Space Marine; Eddy Gonzalez Davila
 https://i.imgur.com/GxyZ7D2.png
+--      Oficio Assassinorum; Eddy Gonzalez Davila
+https://i.imgur.com/0hYCRoO.png
 --      Hold at All Costs; John Stone
 https://i.imgur.com/0QtKus3.png
 --      Gather the Troops; Eddy Gonzalez Davila
@@ -497,6 +499,8 @@ https://i.imgur.com/x9MD6LY.png
 https://i.imgur.com/QmqN0HX.png
 --      Cryptek; L J Koh
 https://i.imgur.com/Oxe3t1j.png
+--      Szarekh, the Last and Greatest Silent King; L J Koh
+https://i.imgur.com/sD3UXmT.png
 -- ------------------------------------------------------------------------------------
 -- Orks
 -- ------------------------------------------------------------------------------------
@@ -736,3 +740,7 @@ https://i.imgur.com/qzgrHVH.png
 https://i.imgur.com/rkMurJz.png
 --      In Midnight Clad; Adepta Sororitas and Adeptus Astartes (Night Lords) vs Tyranids; Remembrancer Duellicus
 https://i.imgur.com/oltzxrP.png
+--      One of Vulkan's Sons; Adeptus Astartes (Salamanders), Astra Militarum, Tyranids; Bozhko Dimitrov
+https://i.imgur.com/9eqWdKB.png
+--      Space Marines Escape Necron Tomb; Marton Kapoli
+https://i.imgur.com/Ykn8HRY.png
