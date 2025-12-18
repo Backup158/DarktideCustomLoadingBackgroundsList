@@ -230,6 +230,8 @@ https://i.imgur.com/H27rr41.png
 https://i.imgur.com/IWvb7w5.jpeg
 --      Armoured Sentinel; Guillaume Bolis
 -- https://i.imgur.com/aQAbfNq.png
+--      Death Korps of Krieg Advance; Soloman Anthony
+https://i.imgur.com/Qj2SOcY.png
 -- ==============================================
 -- --------------------------------
 -- Other Artwork
@@ -415,8 +417,12 @@ https://i.imgur.com/sVB5PQQ.png
 https://i.imgur.com/ZN1wLJa.png
 https://i.imgur.com/MCEmn9P.png
 https://i.imgur.com/p2vGsLH.png
---       Obliterator Iron Warriors, for Warsmith Tharrax; Aectannn
+--      Obliterator Iron Warriors, for Warsmith Tharrax; Aectannn
 https://i.imgur.com/OZ83494.png
+--      Night Lords - Talos; Alex Cristi
+https://i.imgur.com/syADTvA.png
+--      Alpha Legionnaire with Plasma Gun; Konstantin
+https://i.imgur.com/m0USJfC.png
 -- ------------------------------------------------------------------------------------
 -- Adeptus Custodes
 -- ------------------------------------------------------------------------------------
@@ -500,6 +506,16 @@ https://i.imgur.com/emzRpHQ.png
 https://i.imgur.com/x7obeny.png
 --      Traitor Guard, Blood Pact Death Commandos
 https://i.imgur.com/1ENVPvS.png
+--      Death Korps of Krieg Chimera; Danilo Andri
+https://i.imgur.com/ZZpMY4G.png
+--      Death Riders of Krieg; Danilo Andri
+https://i.imgur.com/irwibAz.png
+--      Death Korps of Krieg Advance; Mark Tarrisse
+https://i.imgur.com/cIEI7wY.png
+--      Death Korps of Kreig Heavy Bolter; Mark Tarrisse
+https://i.imgur.com/kSG6RnH.png
+--      Death Korps of Krieg Ogryns; Tanawat Muninnimit
+https://i.imgur.com/ztpoVXa.png
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -- Xenos
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -633,6 +649,8 @@ https://i.imgur.com/t7CuYYd.jpeg
 https://i.imgur.com/sPGDIkg.png
 --      Steel Legion; Javier Quintana
 https://i.imgur.com/4Lb0QQY.png
+--      Second War for Armageddon; Christian Otazu
+https://i.imgur.com/xDghFWN.png
 -- ------------------------------------------------------------------------------------
 -- The Roboutian Heresy (Fanfiction)
 -- ------------------------------------------------------------------------------------
@@ -785,3 +803,5 @@ https://i.imgur.com/gSnxn9z.png
 https://i.imgur.com/yDuqG2X.jpeg
 --      The Vanguard of Roboute Guilliman Arrives in the Pariah Nexus, and the Apotheo Dynasty Meets the Ultramarines in Battle; Adeptus Astartes, Necrons; Grohgr
 https://i.imgur.com/AphfR7Z.png
+--      Kriegbreaka; Astra Militarum (Death Korps of Krieg), Orks; Thibault Ollier
+https://i.imgur.com/qJ0aWh1.png
