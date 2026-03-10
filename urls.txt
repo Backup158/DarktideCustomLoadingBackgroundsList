@@ -331,6 +331,8 @@ https://i.imgur.com/2BXljjF.png
 --      Imperial Fists vs Chaos Space Marines (black bars)
 -- https://i.imgur.com/EL0F5yW.png
 https://i.imgur.com/aPqQofd.png
+--      Armored Inquisitor; Neil Seager
+-- https://i.imgur.com/XOymY3M.png
 -- ================================
 -- Loyalists Only
 -- ================================
@@ -343,14 +345,20 @@ https://i.imgur.com/aPqQofd.png
 -- --------------------------------
 -- VI: Space Wolves, Vlka Fenryka
 -- --------------------------------
+
 -- --------------------------------
 -- VII: Imperial Fists
 -- --------------------------------
 
--- --------------------------------
+-- ----------------
 -- Crimson Fists
--- --------------------------------
+-- ----------------
 https://i.imgur.com/2m7U10T.png
+-- ----------------
+-- Black Templars
+-- ----------------
+--      Black Templars, The Emperor's Champion; Nicholas Kay
+https://i.imgur.com/EDKyPxQ.png
 -- --------------------------------
 -- IX: Blood Angels
 -- --------------------------------
@@ -368,6 +376,10 @@ https://i.imgur.com/lin7F4f.png
 -- --------------------------------
 -- XIII: Ultramarines
 -- --------------------------------
+--      Suffer Not the Traitor to Live; Ultramarines fighting Death Guard; Marco Brunelleschi
+https://i.imgur.com/9gsV56B.png
+--      Ultramarine Assault; Aidan Wilson
+https://i.imgur.com/evvuzjP.png
 -- --------------------------------
 -- XVIII: Salamanders
 -- --------------------------------
@@ -404,7 +416,8 @@ https://i.imgur.com/W9Xf8qm.png
 -- --------------------------------
 -- XII: World Eaters
 -- --------------------------------
-
+--      Daemon Engine; John Hagen
+https://i.imgur.com/efPj9OL.png
 -- --------------------------------
 -- XIV: Death Guard
 -- --------------------------------
@@ -424,18 +437,9 @@ https://i.imgur.com/W9Xf8qm.png
 -- --------------------------------
 -- XX: Alpha Legion
 -- --------------------------------
---      Suffer Not the Traitor to Live; Marco Brunelleschi
-https://i.imgur.com/9gsV56B.png
---      Ultramarine Assault; Aidan Wilson
-https://i.imgur.com/evvuzjP.png
---      Daemon Engine; John Hagen
-https://i.imgur.com/efPj9OL.png
---      Thunder Gods; John Hagen
-https://i.imgur.com/7fyC9gi.png
---      Black Templars, The Emperor's Champion
-https://i.imgur.com/EDKyPxQ.png
---      Space Wolf
-https://i.imgur.com/XOymY3M.png
+
+
+
 --      Imperial Fists Ceremony; Janovich
 https://i.imgur.com/zRMsEJz.png
 --      Blood Angels, Last Chapter; ukitakumuki (Kai Lim)
@@ -916,4 +920,5 @@ https://i.imgur.com/w7qtvJ1.png
 https://i.imgur.com/MQ037qf.png
 --      honestly I have no idea what he drew here, but it looks sick; Márton Kapoli
 https://i.imgur.com/lcOANOf.png
-
+--      Thunder Gods; Imperial Knights; John Hagen
+https://i.imgur.com/7fyC9gi.png
