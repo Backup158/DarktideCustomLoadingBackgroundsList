@@ -263,6 +263,10 @@ https://i.imgur.com/4BguR2E.png
 https://i.imgur.com/x8znci5.jpeg
 --      Imperial Armour
 https://i.imgur.com/GkSWUAY.png
+--      Patrol at Dawn; Astra Militarum, Adeptus Mechanicus; Yehya Haouchar
+https://i.imgur.com/s1relf9.png
+--      Wardens Mugshot; Adeptus Astartes, Astra Militarum; Carlos Matheus
+https://i.imgur.com/yz1Ifte.png
 -- ------------------------------------------------------------------------------------
 -- Adepta Sororitas
 -- ------------------------------------------------------------------------------------
@@ -596,10 +600,6 @@ https://i.imgur.com/0EmdFTt.png
 https://i.imgur.com/3KkQLfI.png
 --      Death Korps of Krieg Line; Jiwon Kim
 https://i.imgur.com/3Q8hW3k.png
---      Death Korps of Krieg in Chimera; Siege of Vraks Mechanized Advance; Danilo Andrić
-https://i.imgur.com/ZZpMY4G.png
---      Death Riders of Krieg; Danilo Andrić
-https://i.imgur.com/irwibAz.png
 --      Death Korps of Krieg Advance; Mark Tarrisse
 https://i.imgur.com/cIEI7wY.png
 --      Death Korps of Kreig Heavy Bolter; Mark Tarrisse
@@ -610,6 +610,8 @@ https://i.imgur.com/ztpoVXa.png
 https://i.imgur.com/eqdmA78.png
 --      No Man's Land; Astra Militarum (Death Korps of Krieg); MidnattThol
 https://i.imgur.com/YyXuEej.png
+--      Death Korps of Krieg Relaxing Music; Richard Jan Postema (Janovich)
+https://i.imgur.com/LreVGuU.png
 -- --------------------------------
 -- Elysian Drop Troopers
 -- --------------------------------
@@ -759,20 +761,22 @@ https://i.imgur.com/4edDhTT.png
 -- ------------------------------------------------------------------------------------
 -- Siege of Vraks
 -- ------------------------------------------------------------------------------------
---      Death Korps of Krieg, Death Riders; Daandric
-https://i.imgur.com/V0sxdB8.png
 --      Artillery; Forge World
 https://i.imgur.com/TaBGZXa.png
 --      Hive Ferrograd; Janovich
 https://i.imgur.com/t7CuYYd.jpeg
+--      Death Korps of Krieg in Chimera; Siege of Vraks Mechanized Advance; Danilo Andrić
+https://i.imgur.com/ZZpMY4G.png
+--      Death Riders of Krieg; Danilo Andrić
+https://i.imgur.com/irwibAz.png
 -- ------------------------------------------------------------------------------------
--- War for Armageddon (any)
+-- Wars for Armageddon
 -- ------------------------------------------------------------------------------------
 --      Armageddon Reconquest; Michal Svec
 https://i.imgur.com/sPGDIkg.png
 --      Steel Legion; Javier Quintana
 https://i.imgur.com/4Lb0QQY.png
---      Second War for Armageddon; Christian Otazu
+--      Second War for Armageddon: Yarrick Duel; Christian Otazu
 https://i.imgur.com/xDghFWN.png
 -- ------------------------------------------------------------------------------------
 -- The Roboutian Heresy (Fanfiction)
@@ -940,7 +944,9 @@ https://i.imgur.com/MQ037qf.png
 https://i.imgur.com/lcOANOf.png
 --      Thunder Gods; Imperial Knights; John Hagen
 https://i.imgur.com/7fyC9gi.png
-
-
-
-
+--      Aim... Shoot!; Astra Militarum, Adepta Sororitas (Traitor, Tzeentch); Yang Zheyy
+https://i.imgur.com/9hZ23Lk.png
+--      Deathstorm; Adeptus Astartes (Blood Angels), Tyranids; Raymond Swanland
+https://i.imgur.com/A5A5Vex.png
+--      Necron Moment; Necrons, T'au, Adeptus Astartes, Astra Militarum; MaverickIllus
+https://i.imgur.com/DP1Qu0O.png
