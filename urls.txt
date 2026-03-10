@@ -1,7 +1,7 @@
 -- ########################################################################################################################################################################################
 -- WARHAMMER 40,000 ART - Stolen Without Remorse
 --   List maintained by Backup158
---   Images are sourced from Steam Backgrounds or various nooks and crannies of the Internet (reuploaded to my imgur album)
+--   Images are sourced from Steam Backgrounds or various nooks and crannies of the Internet (reuploaded to my imgur album so the links are less likely to die)
 --      Cropped to 1920x1080, 16:9
 --      After v1.0 of Custom Loading Backgrounds, images that do not match your aspect ratio are squished to fill or left hanging in the void
 --      https://i.imgur.com/a/custom-loading-backgrounds-1920x1080-REhTk5C
@@ -423,6 +423,10 @@ https://i.imgur.com/OZ83494.png
 https://i.imgur.com/syADTvA.png
 --      Alpha Legionnaire with Plasma Gun; Konstantin
 https://i.imgur.com/m0USJfC.png
+--      Dreadnought Execution; Márton Kapoli
+https://i.imgur.com/hJQG1OE.png
+--      Excess; Emperor's Children; Eddy González Dávila
+https://i.imgur.com/DVCt66A.png
 -- ------------------------------------------------------------------------------------
 -- Adeptus Custodes
 -- ------------------------------------------------------------------------------------
@@ -518,6 +522,8 @@ https://i.imgur.com/kSG6RnH.png
 https://i.imgur.com/ztpoVXa.png
 --      Death Korps of Krieg in the Trenches; Undella
 https://i.imgur.com/eqdmA78.png
+--      No Man's Land; Astra Militarum (Death Korps of Krieg); MidnattThol
+https://i.imgur.com/YyXuEej.png
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -- Xenos
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -807,4 +813,13 @@ https://i.imgur.com/yDuqG2X.jpeg
 https://i.imgur.com/AphfR7Z.png
 --      Kriegbreaka; Astra Militarum (Death Korps of Krieg), Orks; Thibault Ollier
 https://i.imgur.com/qJ0aWh1.png
-
+--      Black Templars Battle Canopteks; Adeptus Astartes, Necrons; Márton Kapoli
+https://i.imgur.com/p0fk16D.png
+--      The Great Crusade; Eddy González Dávila
+https://i.imgur.com/dW6WxMD.png
+--      Iron Warriors Facing Necrons; Adeptus Astartes; Márton Kapoli
+https://i.imgur.com/nMEsbAN.png
+--      Salamanders Defending Nocturne from Orks; Adeptus Astartes; Márton Kapoli
+https://i.imgur.com/gV5ipnz.png
+--      Winter Defense; Adeptus Astartes, Astra Militarum (Vostroyan Firstborns); Márton Kapoli
+https://i.imgur.com/w7qtvJ1.png
