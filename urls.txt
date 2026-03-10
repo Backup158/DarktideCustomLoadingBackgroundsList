@@ -14,10 +14,7 @@
 --      I usually only list one of the artist's names
 --        If there was an alias I used that ended up being a duplicate, I included both for some reason
 --        I tend to use real names, but use usernames if I don't see one
---        Names with diacritic/accent marks are transliterated to English phonetics (if I didn't mess up)
---          I don't know what encoding this file uses and don't want read errors when the file gets opened by Darktide
---          I should figure that out
---          Wait why am I writing all of this out in a file that's being distributed publically
+--        Early on, names with diacritic/accent marks were transliterated to English phonetics
 -- ########################################################################################################################################################################################
 -- ================================
 -- Art from Games
@@ -950,3 +947,4 @@ https://i.imgur.com/9hZ23Lk.png
 https://i.imgur.com/A5A5Vex.png
 --      Necron Moment; Necrons, T'au, Adeptus Astartes, Astra Militarum; MaverickIllus
 https://i.imgur.com/DP1Qu0O.png
+
