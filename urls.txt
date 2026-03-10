@@ -549,54 +549,53 @@ https://imgur.com/5vLSfue.png
 https://i.imgur.com/vOg2kqW.png
 --      Lord Solar
 https://i.imgur.com/PcPz8s9.png
---      Death Korps of Krieg, Death Riders; Diego Gisbert Llorens
-https://i.imgur.com/026osqz.png
 --      Chimera APC in Action; Michal Svec
 https://i.imgur.com/wfSJJJp.png
---      Death Korps of Krieg, For the Emperor; <I can't read that signature>
-https://i.imgur.com/2iuKANG.png
+-- --------------------------------
+-- Armageddon Steel Legion
+-- --------------------------------
 --      Chains of Golgotha: Commissar Yarrick; Phrolian Gardne
 https://i.imgur.com/IRZL1ON.png
+--      Acastus Porphyrion; Hector Martínez
+https://i.imgur.com/4LwCBj5.png
+--      Armageddon Steel Legion
+https://i.imgur.com/emzRpHQ.png
+-- --------------------------------
+-- Cadian Shock Troopers
+-- --------------------------------
 --      Kasrkin; Eddy Gonzalez Davila
 https://i.imgur.com/Xf5Q6GV.png
 --      Cadian Advance; Michal Svec
 https://i.imgur.com/ocWmkLI.jpeg
---      Elysian Ork Hunters; Michal Svec
-https://i.imgur.com/Pk4CE5s.jpeg
---      Kriegman; teutonic13
-https://i.imgur.com/LJ2TL8r.jpeg
---      Mordian Iron Guard vs Slaanesh; Marton Kapoli
-https://i.imgur.com/gvnzhCa.jpeg
---      88th Siege Army; Brilliane Feldo
-https://i.imgur.com/VRPORTD.png
---      Acastus Porphyrion; Hector Martínez
-https://i.imgur.com/4LwCBj5.png
 --      Killteam; Samuel Allan
 https://i.imgur.com/WZQN85M.png
---      Cadian Heroes; Nicolás Castro Jiménez
-https://i.imgur.com/c9116Jc.png
---      Ciaphas Cain; Vladimir Krisetskiy
-https://i.imgur.com/Vf3d1FW.png
---      Death Korps of Krieg Triumph; Boris Tsui
-https://i.imgur.com/0EmdFTt.png
---      Death Korps of Krieg Trench Assault; Brilliane Feldo
-https://i.imgur.com/3KkQLfI.png
---      Death Korps of Krieg Line; Jiwon Kim
-https://i.imgur.com/3Q8hW3k.png
 --      Hammer of Woe; Slim Charles
 https://i.imgur.com/XAwEmKb.png
 --      Imperial Planetfall; Paul Dainton
 https://i.imgur.com/AzPuD6H.png
 --      Shield of Baal; Fares Maese
 https://i.imgur.com/57Bqwz2.png
---      Vostroyan Firstborns Bikers; Nictanova
-https://i.imgur.com/4cpv8oW.png
---      Armageddon Steel Legion
-https://i.imgur.com/emzRpHQ.png
+--      Cadian Heroes; Nicolás Castro Jiménez
+https://i.imgur.com/c9116Jc.png
 --      Cadian Shock Troops
 https://i.imgur.com/x7obeny.png
---      Traitor Guard, Blood Pact Death Commandos
-https://i.imgur.com/1ENVPvS.png
+-- --------------------------------
+-- Death Korps of Krieg
+-- --------------------------------
+--      Death Korps of Krieg, Death Riders; Diego Gisbert Llorens
+https://i.imgur.com/026osqz.png
+--      Death Korps of Krieg, For the Emperor; <I can't read that signature>
+https://i.imgur.com/2iuKANG.png
+--      Korpsman; teutonic13
+https://i.imgur.com/LJ2TL8r.jpeg
+--      88th Siege Army; Brilliane Feldo
+https://i.imgur.com/VRPORTD.png
+--      Death Korps of Krieg Triumph; Boris Tsui
+https://i.imgur.com/0EmdFTt.png
+--      Death Korps of Krieg Trench Assault; Brilliane Feldo
+https://i.imgur.com/3KkQLfI.png
+--      Death Korps of Krieg Line; Jiwon Kim
+https://i.imgur.com/3Q8hW3k.png
 --      Death Korps of Krieg Chimera; Danilo Andri
 https://i.imgur.com/ZZpMY4G.png
 --      Death Riders of Krieg; Danilo Andri
@@ -611,6 +610,35 @@ https://i.imgur.com/ztpoVXa.png
 https://i.imgur.com/eqdmA78.png
 --      No Man's Land; Astra Militarum (Death Korps of Krieg); MidnattThol
 https://i.imgur.com/YyXuEej.png
+-- --------------------------------
+-- Elysian Drop Troopers
+-- --------------------------------
+--      Elysian Ork Hunters; Michal Svec
+https://i.imgur.com/Pk4CE5s.jpeg
+-- --------------------------------
+-- Mordian Iron Guard
+-- --------------------------------
+--      Mordian Iron Guard vs Slaanesh; Marton Kapoli
+https://i.imgur.com/gvnzhCa.jpeg
+-- --------------------------------
+-- Valhallan Ice Warriors
+-- --------------------------------
+--      Ciaphas Cain; Vladimir Krisetskiy
+https://i.imgur.com/Vf3d1FW.png
+-- --------------------------------
+-- Vostroyan Firstborns
+-- --------------------------------
+--      Vostroyan Firstborn Bikers; Nictanova
+https://i.imgur.com/4cpv8oW.png
+-- ================================
+-- Traitor Guard
+-- ================================
+--      Blood Pact Death Commandos
+https://i.imgur.com/1ENVPvS.png
+--      Traitor Guard of Tzeentch; TazMar
+https://i.imgur.com/yezPVWf.png
+https://i.imgur.com/faBf3sb.png
+https://i.imgur.com/gSnxn9z.png
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -- Xenos
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -627,7 +655,7 @@ https://i.imgur.com/Yxq7qlB.png
 https://i.imgur.com/x9MD6LY.png
 -- ------------------------------------------------------------------------------------
 -- Necrons
--- --------------
+-- ------------------------------------------------------------------------------------
 --      Necron Lord
 https://i.imgur.com/QmqN0HX.png
 --      Cryptek; L J Koh
@@ -890,10 +918,6 @@ https://i.imgur.com/zBXV5Y8.png
 https://i.imgur.com/MPClweA.png
 --      Brotherhood of Demigods; Adeptus Custodes, Orks; David Gallagher
 https://i.imgur.com/4UGGH3j.png
---      Traitor Guard of Tzeentch; TazMar
-https://i.imgur.com/yezPVWf.png
-https://i.imgur.com/faBf3sb.png
-https://i.imgur.com/gSnxn9z.png
 --      Traitor Auxilliary Duel; Adepta Sororitas (Traitor), Iron Warriors; Martin Kapoli
 https://i.imgur.com/yDuqG2X.jpeg
 --      The Vanguard of Roboute Guilliman Arrives in the Pariah Nexus, and the Apotheo Dynasty Meets the Ultramarines in Battle; Adeptus Astartes, Necrons; Grohgr
@@ -916,5 +940,6 @@ https://i.imgur.com/MQ037qf.png
 https://i.imgur.com/lcOANOf.png
 --      Thunder Gods; Imperial Knights; John Hagen
 https://i.imgur.com/7fyC9gi.png
+
 
 
