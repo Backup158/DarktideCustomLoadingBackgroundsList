@@ -209,15 +209,15 @@ https://i.imgur.com/OsKfFB8.png
 -- Artist Watermarks
 --      Soul Haunters; Orniris Terensi
 https://i.imgur.com/qCoOguH.png
---      Perturabo, Iron Warriors; Eddy Gonzalez Davila
+--      Perturabo, Iron Warriors; Eddy González Dávila
 https://i.imgur.com/tjkHRq5.png
---      Dune Space Marine; Eddy Gonzalez Davila
+--      Dune Space Marine; Eddy González Dávila
 https://i.imgur.com/GxyZ7D2.png
---      Oficio Assassinorum; Eddy Gonzalez Davila
+--      Oficio Assassinorum; Eddy González Dávila
 https://i.imgur.com/0hYCRoO.png
 --      Hold at All Costs; John Stone
 https://i.imgur.com/0QtKus3.png
---      Gather the Troops; Eddy Gonzalez Davila
+--      Gather the Troops; Eddy González Dávila
 https://i.imgur.com/669YWHC.jpeg
 --      Cadian 728th; Hector Martínez
 https://i.imgur.com/dWjDGAI.jpeg
@@ -470,8 +470,6 @@ https://i.imgur.com/DVCt66A.png
 https://i.imgur.com/OZ83494.png
 --      Iron Warriors; waruhameru40kart
 https://i.imgur.com/sBHJgAA.png
---      Perturabo; iron Warriors; Eddy González Dávila
-https://i.imgur.com/VzDIAAa.png
 -- --------------------------------
 -- VIII: Night Lords
 -- --------------------------------
@@ -951,6 +949,7 @@ https://i.imgur.com/9hZ23Lk.png
 https://i.imgur.com/A5A5Vex.png
 --      Necron Moment; Necrons, T'au, Adeptus Astartes, Astra Militarum; MaverickIllus
 https://i.imgur.com/DP1Qu0O.png
+
 
 
 
