@@ -167,6 +167,8 @@ https://i.imgur.com/e53xPry.png
 https://i.imgur.com/okisdLZ.png
 --      Chaos Taint
 https://i.imgur.com/nrsjUMu.png
+--      Space Marine II: Demetrian Titus Holds the Banner; Vitaly Perevoshikov
+https://i.imgur.com/AflJFtf.png
 -- --------------------------------
 --  Rogue Trader
 --  https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
@@ -187,7 +189,9 @@ https://i.imgur.com/OsKfFB8.png
 -- Stuff with logos
 --   Making this section easy to identify
 -- =======================================================
+-- --------------------------------
 -- Gladius
+-- --------------------------------
 --      Necrons
 --https://i.imgur.com/XN0o3FY.png
 --      Necrons vs Space Marines
@@ -203,7 +207,9 @@ https://i.imgur.com/OsKfFB8.png
 --https://i.imgur.com/PXXmYtH.png
 --      Blasted
 --https://i.imgur.com/GWzT9y5.png
+-- --------------------------------
 -- Space Marine 2
+-- --------------------------------
 --      Tyranid Duel
 --https://i.imgur.com/lUJFBAx.png
 -- Artist Watermarks
@@ -231,6 +237,8 @@ https://i.imgur.com/IWvb7w5.jpeg
 https://i.imgur.com/Qj2SOcY.png
 --      Iron Hands Rain; Adeptus Astartes; Zhang Bozi
 https://i.imgur.com/5xE5BOs.png
+--      Massacre; Adeptus Astartes (Carcharadons), Tyranids; Zhang Bozi
+https://i.imgur.com/QNJdtzD.png
 -- ==============================================
 -- --------------------------------
 -- Other Artwork
@@ -483,6 +491,8 @@ https://i.imgur.com/p2vGsLH.png
 https://i.imgur.com/syADTvA.png
 --      Night Lords; Eddy González Dávila
 https://i.imgur.com/SmUWDMf.png
+--      Night Lords; Adeptus Astartes; KoBOng
+https://i.imgur.com/20KLpvB.png
 -- --------------------------------
 -- XII: World Eaters
 -- --------------------------------
@@ -619,6 +629,8 @@ https://i.imgur.com/eqdmA78.png
 https://i.imgur.com/YyXuEej.png
 --      Death Korps of Krieg Relaxing Music; Richard Jan Postema (Janovich)
 https://i.imgur.com/LreVGuU.png
+--      Bombardment; Astra Militarum (Death Korps of Krieg); Yehya Haouchar
+https://i.imgur.com/zK1ho41.png
 -- --------------------------------
 -- Elysian Drop Troopers
 -- --------------------------------
@@ -722,6 +734,8 @@ https://i.imgur.com/o5BcjB0.png
 https://i.imgur.com/hygbIRX.jpeg
 --      Tyranid Outcast; Randize
 https://i.imgur.com/BgqAdCh.png
+--      Tyranid Warrior; N Tarou Art
+https://i.imgur.com/Hymxgis.png
 -- ============================================================================================================
 -- Events
 -- ============================================================================================================
@@ -992,3 +1006,21 @@ https://i.imgur.com/nlQ3pMU.png
 https://i.imgur.com/6FTfBEL.png
 --      Talos; Adeptus Astartes (Night Lords), Aeldari; Alex Cristi
 https://i.imgur.com/3QcxYkU.png
+--      Angels Fissile vs Genestealers; Adeptus Astartes; Phinyx Studio
+https://i.imgur.com/3vafPLq.png
+--      Assault and Bulwark; Adeptus Astartes, Tyranids; Demoraes
+https://i.imgur.com/kZzlPyx.png
+--      Baal's Defense; Adeptus Astartes, Tyranids; Rian Macanip
+https://i.imgur.com/hwbknIm.png
+--      Baal's Retribution; Adeptus Astartes, Tyranids; Rian Macanip
+https://i.imgur.com/XEBzu6r.png
+--      Battle for Macragge, Marneus Calgar; Adeptus Astartes (Ultramarines), Tyranids; Cristian Otazu
+https://i.imgur.com/3Ktmv5l.png
+--      Dark Angels against Tyranids; Adeptus Astartes; Vorueg
+https://i.imgur.com/DWbFWdq.png
+--      Second Tyrannic War; Adeptus Astartes (Ultramarines), Tyranids; Cristian Otazu
+https://i.imgur.com/ZasVptA.png
+--      Service or Sacrifice; Adeptus Astartes, Astra Miltarum; IamFactor
+https://i.imgur.com/4JJrxo3.png
+--      The Black Lion; Adeptus Astartes (Ultramarines), Tyranids; George Vincent
+https://i.imgur.com/TfGczpo.png
