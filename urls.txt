@@ -38,14 +38,14 @@ https://steamcommunity.com/economy/profilebackground/items/312370/c3cc25cfa589b1
 --  https://store.steampowered.com/app/1733890/Warhammer_40000_Battle_Sister/
 -- --------------------------------
 --      Battle Ready Sister
-https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/2ddc6fa58824390f0428404f003c6ce744cf2a27.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/1733890/2ddc6fa58824390f0428404f003c6ce744cf2a27.jpg
 --      Sister of Battle
-https://cdn.steamstatic.com/steamcommunity/public/images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
 -- --------------------------------
 --  Chaos Gate: Daemonhunters
 --  https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/
 -- --------------------------------
-https://imgur.com/FIMIulG.png
+https://i.imgur.com/FIMIulG.png
 -- --------------------------------
 --  Darktide
 --  https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/
@@ -103,13 +103,13 @@ https://i.imgur.com/oH3xNvQ.png
 --  https://store.steampowered.com/app/394450/Warhammer_40000_Deathwatch__Enhanced_Edition/
 -- --------------------------------
 --      Ultramarines
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
 --      Space Wolf
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
 --      Dark Angels
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
 --      Blood Angels
-https://cdn.steamstatic.com/steamcommunity/public/images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
 --      Imperial Fists
 https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b2076133ac8bd2a0e0df9b62150.jpg
 -- --------------------------------
@@ -118,39 +118,39 @@ https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b
 --    https://store.steampowered.com/app/816090/Space_Hulk_Deathwing_Enhanced_Edition/
 -- --------------------------------
 --      Team
-https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
 --      Surrounded
-https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
 --      Threat
-https://cdn.steamstatic.com/steamcommunity/public/images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
 --      To War
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
 --      Battle Brothers
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
 --      Stand Against Darkness
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
 --      Watchful
-https://cdn.steamstatic.com/steamcommunity/public/images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
 -- --------------------------------
 --  Mechanicus
 --  https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 -- --------------------------------
 --      AdMech vs Necrons
-https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
 --      Necron Statues
-https://cdn.steamstatic.com/steamcommunity/public/images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
 -- --------------------------------
 --  Space Marine 1
 --  https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
 -- --------------------------------
 --      Titus Shoot
--- https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/i.images/items/55150/e633db9eaad9ac87983871f3c30784f3ff333341.jpg
 --      Titus Shoot (Full)
 https://i.imgur.com/V4UAmgp.png
 --      Ultramarine Running Shot
-https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
 --      Titus Rising
-https://cdn.steamstatic.com/steamcommunity/public/images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
+https://cdn.steamstatic.com/steamcommunity/public/i.images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
 -- --------------------------------
 --  Space Marine 2
 --  https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
@@ -239,6 +239,8 @@ https://i.imgur.com/Qj2SOcY.png
 https://i.imgur.com/5xE5BOs.png
 --      Massacre; Adeptus Astartes (Carcharadons), Tyranids; Zhang Bozi
 https://i.imgur.com/QNJdtzD.png
+--      Death Watch; Adeptus Astartes, Tyranids; Zhang Bozi
+https://i.imgur.com/14hX6bU.png
 -- ==============================================
 -- --------------------------------
 -- Other Artwork
@@ -562,7 +564,7 @@ https://i.imgur.com/9LgCUKj.png
 --      Mechanicus; Aaron J Riley
 --https://i.imgur.com/fOsE04n.png
 --      Codex: 10e; Lewis Jones [note: not from my album]
-https://imgur.com/5vLSfue.png
+https://i.imgur.com/5vLSfue.png
 -- ------------------------------------------------------------------------------------
 -- Astra Militarum, Imperial Guard
 -- ------------------------------------------------------------------------------------
@@ -689,6 +691,8 @@ https://i.imgur.com/QmqN0HX.png
 https://i.imgur.com/Oxe3t1j.png
 --      Szarekh, the Last and Greatest Silent King; L J Koh
 https://i.imgur.com/sD3UXmT.png
+--      Canoptek Reanimator; Marcin Flisikowski
+https://i.imgur.com/Vrfrh0E.png
 -- ------------------------------------------------------------------------------------
 -- Orks
 -- ------------------------------------------------------------------------------------
@@ -727,6 +731,10 @@ https://i.imgur.com/tCpOK2B.png
 https://i.imgur.com/S2RnEQl.png
 --      T'au Landing on Dovar; Catherine O'Connor
 https://i.imgur.com/o5BcjB0.png
+--      Hammerhead Shreds Guardsmen; Ilya Belyakov
+https://i.imgur.com/XlqBP8X.png
+--      The Death of Neelsun; T'au; Léo Ferland L'Abbé
+https://i.imgur.com/GQ0cs09
 -- ------------------------------------------------------------------------------------
 -- Tyranids
 -- ------------------------------------------------------------------------------------
@@ -736,6 +744,15 @@ https://i.imgur.com/hygbIRX.jpeg
 https://i.imgur.com/BgqAdCh.png
 --      Tyranid Warrior; N Tarou Art
 https://i.imgur.com/Hymxgis.png
+--      Norn Queen; Tyranids; Helge C Balzer
+https://i.imgur.com/7tMUFDa
+-- --------------------------------
+-- Genestealer Cults
+--  Yeah, I'm calling them a subfaction
+--  Go cry to your sky bugs or wh- oh shit they're here fuck fuck fuck fuck
+-- --------------------------------
+--      Goliath Rockgrinder
+https://i.imgur.com/GNy6lrs.png
 -- ============================================================================================================
 -- Events
 -- ============================================================================================================
@@ -917,7 +934,7 @@ https://i.imgur.com/uK6k59n.png
 --      Space Marines and Imperial Guard vs Orks; Stefan Kopinski
 https://i.imgur.com/Sq3k7oY.png
 --      Tempestus Scions vs Orks; Leos Ng Okita
-https://i.imgur.com/ImOQS7S.png
+https://i.imgur.com/i.imOQS7S.png
 --      Tyranids and Sisters; Thomas Elliott
 https://i.imgur.com/RVwsy4v.png
 --      Old One Eye vs Death Korps of Krieg; Marton Kapoli
@@ -992,7 +1009,7 @@ https://i.imgur.com/5o6qfdV.png
 https://i.imgur.com/NYNThTi.png
 --      Eternal Crusade; Adeptus Astartes, Aeldari; Diego Gisbert Llorens
 https://i.imgur.com/sHzixOI.png
---      Ghost Warriors vs Orks; Aeldari; Hua Lu (16x9)
+--      Ghost Warriors vs Orks; Aeldari; Hua Lu
 https://i.imgur.com/5sWAJoI.png
 --      Iron Hands Suppressing Guardians; Adeptus Astartes, Aeldari; Jose Daniel Cabrera Peña
 https://i.imgur.com/gHfzwPj.png
@@ -1024,3 +1041,35 @@ https://i.imgur.com/ZasVptA.png
 https://i.imgur.com/4JJrxo3.png
 --      The Black Lion; Adeptus Astartes (Ultramarines), Tyranids; George Vincent
 https://i.imgur.com/TfGczpo.png
+--      Assassin and Genestealers; Martin Paret
+https://i.imgur.com/Z5P7xTJ.png
+--      Blood Angels Slaughter Genestealer; Adeptus Astartes; Jaime Martinez
+https://i.imgur.com/8RzDa98.png
+--      Counter Sniper; Adeptus Astartes, T'au; Boris Tsui
+https://i.imgur.com/dMtxGVi.png
+--      Doom Eagles; Adeptus Astartes, Tyranids; Boris Tsui
+https://i.imgur.com/Tn3D8m6.png
+--      Genestealer Cults Attack Guardsmen; Vladimir Krisetskiy
+https://i.imgur.com/mqm0haD.png
+--      Gilded Hive; Tyranids; Márton Kapoli
+https://i.imgur.com/Jp2wyvh.png
+--      Hive Secundus; Adeptus Astartes, Genestealer Cults; Miguel Mitchell Da Silva
+https://i.imgur.com/avgeTja.png
+--      Honor and Death; Adeptus Astartes, Tyranids; Graveforest
+https://i.imgur.com/69ZEeWL.png
+--      Last Bastion; Astra Militarum, Tyranids; Tania Sanchez Fortun
+https://i.imgur.com/lVTVaja
+--      Maugan Ra; Aeldari, Tyranids; Konstantin Void
+https://i.imgur.com/9c9yy0V
+--      Ork Vs Tyranid; Alex Cristi
+https://i.imgur.com/Cwkv4o5
+--      Renegades Extraction; Chaos, Genestealer Cults; Rian Macanip
+https://i.imgur.com/HFgLPFn
+--      Salamanders Last Stand; Adeptus Astartes, Tyranids; Pribylov Maksim
+https://i.imgur.com/Vwy6rQ2
+--      T'au Empire vs Imperium; Kai Zhou
+https://i.imgur.com/dfGpkuO
+--      Ultramarines vs Necrons; Gij Arentz
+https://i.imgur.com/aGPUcDJ
+--      Underground; Adeptus Astartes, Genestealer Cults; Ilya Belyakov
+https://i.imgur.com/IvAlr1g
