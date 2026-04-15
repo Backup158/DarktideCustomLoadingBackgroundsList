@@ -103,13 +103,13 @@ https://i.imgur.com/oH3xNvQ.png
 --  https://store.steampowered.com/app/394450/Warhammer_40000_Deathwatch__Enhanced_Edition/
 -- --------------------------------
 --      Ultramarines
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/76efe13e65fbfdbb994b0c1aa402b46f75168f62.jpg
 --      Space Wolf
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/2ed9cdcb5673e47815d268d2b67cc1966cdfdacf.jpg
 --      Dark Angels
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/a57fa3d5619ece58cfd089852e08bcf6aa9f5bf5.jpg
 --      Blood Angels
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/i.images/items/394450/684bd17fc2aba86363cca43b037b6c4c54e1cd5a.jpg
 --      Imperial Fists
 https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b2076133ac8bd2a0e0df9b62150.jpg
 -- --------------------------------
@@ -148,9 +148,9 @@ https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b
 --      Titus Shoot (Full)
 https://i.imgur.com/V4UAmgp.png
 --      Ultramarine Running Shot
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/i.images/items/55150/50b8d9b0e8521f1ad20d8188366e057af5761592.jpg
 --      Titus Rising
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
+-- https://cdn.steamstatic.com/steamcommunity/public/i.images/items/55150/e639210e3f8dbcdd779ad47bf6956d83018eabad.jpg
 -- --------------------------------
 --  Space Marine 2
 --  https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
