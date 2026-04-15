@@ -118,19 +118,19 @@ https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b
 --    https://store.steampowered.com/app/816090/Space_Hulk_Deathwing_Enhanced_Edition/
 -- --------------------------------
 --      Team
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/23acb1f3320c251117de06c7467a4f9ae4b93bf2.jpg
 --      Surrounded
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/2d8ca3ded18ceee3deac79ae7b8543f00f3a6e61.jpg
 --      Threat
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/298900/8652ec9eb9308b3b4a57ef5050575b9308676355.jpg
 --      To War
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/a3d42f4a0cd19eb5b5e5c3db637de6eeb2e9d449.jpg
 --      Battle Brothers
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/1976d40fbbc8462802bcfbcc424f87d1b6cf4dc5.jpg
 --      Stand Against Darkness
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/0340be4dd7d9d8d30837138bbb776a64b72cf206.jpg
 --      Watchful
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
 -- --------------------------------
 --  Mechanicus
 --  https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
