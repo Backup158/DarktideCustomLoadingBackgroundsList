@@ -136,9 +136,9 @@ https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b
 --  https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 -- --------------------------------
 --      AdMech vs Necrons
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/673880/f6cbb3207730df9878912ddbab2a2d4142117395.jpg
 --      Necron Statues
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
+--https://cdn.steamstatic.com/steamcommunity/public/i.images/items/673880/d109414187a9843c01f1a5107ffa24e335234ce0.jpg
 -- --------------------------------
 --  Space Marine 1
 --  https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
