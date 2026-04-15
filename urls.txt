@@ -38,9 +38,9 @@ https://steamcommunity.com/economy/profilebackground/items/312370/c3cc25cfa589b1
 --  https://store.steampowered.com/app/1733890/Warhammer_40000_Battle_Sister/
 -- --------------------------------
 --      Battle Ready Sister
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/1733890/2ddc6fa58824390f0428404f003c6ce744cf2a27.jpg
+https://i.imgur.com/vWftYVK.png
 --      Sister of Battle
-https://cdn.steamstatic.com/steamcommunity/public/i.images/items/1733890/fbecb537c0c7dbe741f262c10f765d0ceccbf8db.jpg
+https://i.imgur.com/nSESoIm.png
 -- --------------------------------
 --  Chaos Gate: Daemonhunters
 --  https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/
