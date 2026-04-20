@@ -132,6 +132,55 @@ https://steamcommunity.com/economy/profilebackground/items/394450/6b7bfe89ae0e1b
 --      Watchful
 --https://cdn.steamstatic.com/steamcommunity/public/i.images/items/816090/84a3af5f2592c1df0e03151321d6f91b2d5de692.jpg
 -- --------------------------------
+--  Gladius: Relics of War
+--  https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
+--  In a separate album for redundancy: https://imgur.com/a/UoeJXSN
+-- --------------------------------
+--      Adeptus Mechanicus Kastellan Robot
+https://i.imgur.com/dHZHa5A.png
+--      Adeptus Mechanicus Tyranid Experiment
+https://i.imgur.com/bwAjTbY.png
+--      Adeptus Mechanicus Army
+https://i.imgur.com/KI4y5ow.png
+--      Astra Militarum Commissar
+https://i.imgur.com/E6Vl6ZQ.png
+--      Astra Militarum Guardsmen
+https://i.imgur.com/ObxTcF3.png
+--      Chaos Space Marines
+https://i.imgur.com/19Pfand.png
+--      Chaos Space Marine Leading Cultists
+https://i.imgur.com/PI3S0Eb.png
+--      Drukhari Ships
+https://i.imgur.com/jlVilsE.png
+--      Drukhari Ships Exiting Webway Portal
+https://i.imgur.com/M9q0e0Z.png
+--      Eldar Facing Necrons
+https://i.imgur.com/SsQYcUI.png
+--      Eldar Webway
+https://i.imgur.com/xXhUFLB.png
+--      Necrons Rise
+https://i.imgur.com/D5VB1tR.png
+--      Necrons vs Space Marines
+https://i.imgur.com/3uQOVvb.png
+--      Orks
+https://i.imgur.com/ofdbUJm.png
+--      Adepta Sororitas Statue
+https://i.imgur.com/rsEjf31.png
+--      Adepta Sororitas Back to Back
+https://i.imgur.com/hYFhymZ.png
+--      Adepta Sororitas Saint Celestine
+https://i.imgur.com/WR2nh6D.png
+--      Space Marine Captain
+https://i.imgur.com/IVNSo8Y.png
+--      T'au Ships
+https://i.imgur.com/8yxI9PB.png
+--      T'au Landing
+https://i.imgur.com/EBHMXkZ.png
+--      Tyranid Ship
+https://i.imgur.com/KDzYLOL.png
+--      Tyranid Landfall
+https://i.imgur.com/uVOkNgW.png
+-- --------------------------------
 --  Mechanicus
 --  https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 -- --------------------------------
